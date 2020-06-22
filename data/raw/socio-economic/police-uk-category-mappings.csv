@@ -1,0 +1,1487 @@
+Home Office Code,Sub Class,Offence,Police.uk Category
+1/1,Homicide,Murder of persons aged 1 yr or over,Violence and Sexual Offences
+1/1,Homicide,Genocide or crime against humanity,Violence and Sexual Offences
+1/2,Homicide,Murder of persons under 1yr of age,Violence and Sexual Offences
+2,Violence with injury ,Attempted murder,Violence and Sexual Offences
+2,Violence with injury ,Attempted genocide or crime against humanity,Violence and Sexual Offences
+3/1,Violence without injury,Threats to Kill,Violence and Sexual Offences
+3/2,Violence without injury,Soliciting to commit murder,Violence and Sexual Offences
+3/2,Violence without injury,Conspiracy to commit murder,Violence and Sexual Offences
+3/2,violence without injury,"Conspiring, aiding, abetting, counselling, procuring or inciting commission of genocide or crime against humanity",Violence and Sexual Offences
+3/3,violence without injury,Assisting offender by impeding his apprehension or prosecution in a case of murder,Violence and Sexual Offences
+3/3,violence without injury,Concealing commission of genocide or crime against humanity,Violence and Sexual Offences
+3/4,violence without injury,Intentionally encouraging or assisting commission of murder,Violence and Sexual Offences
+3/5,violence without injury,Encouraging or assisting in the commission of murder believing it will be committed,Violence and Sexual Offences
+3/6,violence without injury,Encouraging or assisting in the commission of one or more offences of murder believing one or more will be committed ,Violence and Sexual Offences
+4/1,Homicide,Manslaughter,Violence and Sexual Offences
+4/2,Homicide,Infanticide,Violence and Sexual Offences
+4/3,Violence with injury ,Child Destruction ,Violence and Sexual Offences
+4/4,Death or serious injury caused by illegal driving,Causing death by dangerous driving ,Violence and Sexual Offences
+4/6,Death or serious injury caused by illegal driving,Causing death by careless driving  when under the influence of drink or drugs ,Violence and Sexual Offences
+4/7,Violence with injury ,Causing or Allowing Death of Child or Vulnerable Person,Violence and Sexual Offences
+4/8,Death or serious injury caused by illegal driving,Causing Death by Careless or Inconsiderate Driving ,Violence and Sexual Offences
+4/9,Death or serious injury caused by illegal driving,"Causing Death by Driving: Unlicensed, or Uninsured Drivers ",Violence and Sexual Offences
+4/10,Homicide,Corporate Manslaughter,Violence and Sexual Offences
+4/11,Violence with injury ,Cause or Allow a Child or Vulnerable Adult to Suffer Serious Physical Harm,Violence and Sexual Offences
+4/12,Death or serious injury caused by illegal driving,Cause serious injury by dangerous driving,Violence and Sexual Offences
+4/13,Death or serious injury caused by illegal driving,Cause death by driving without due care / consideration while over prescribed limit - specified controlled drug.,Violence and Sexual Offences
+4/17,Death or serious injury caused by illegal driving,Cause death by driving whilst disqualified ,Violence and Sexual Offences
+4/18,Death or serious injury caused by illegal driving,Cause serious injury by driving whilst disqualified,Violence and Sexual Offences
+5/1,Violence with injury ,Wounding with intent to do grievous bodily harm,Violence and Sexual Offences
+5/1,Violence with injury ,Wounding with intent to do grievous bodily harm,Violence and Sexual Offences
+5/1,Violence with injury ,Cause GBH with intent to resist/prevent arrest,Violence and Sexual Offences
+5/1,Violence with injury ,Wounding with intent to resist/prevent arrest,Violence and Sexual Offences
+5/2,Violence with injury ,Shooting at naval or revenue vessels,Violence and Sexual Offences
+5/4,Violence with injury ,Attempting to choke etc. in order to commit indictable offence,Violence and Sexual Offences
+5/5,Violence with injury ,Using chloroform etc. to commit indictable offence,Violence and Sexual Offences
+5/6,Violence with injury ,Causing bodily injury by explosion,Violence and Sexual Offences
+5/7,Violence with injury ,"Causing explosions, sending explosive substance or throwing corrosive fluids with intent to do grievous bodily harm",Violence and Sexual Offences
+5/8,Violence with injury ,Impeding the saving of life from shipwreck,Violence and Sexual Offences
+5/9,Violence with injury ,Placing explosives in or near buildings with intent to do bodily harm,Violence and Sexual Offences
+5/10,Violence with injury ,Administering poison so as to endanger life,Violence and Sexual Offences
+5/11,Violence with injury ,Causing danger to road-users,Violence and Sexual Offences
+5/13,Violence with injury ,Possession of explosives with intent to endanger life,Violence and Sexual Offences
+5/14,Violence with injury ,Possession of firearm with intent to injure (Group I),Violence and Sexual Offences
+5/15,Violence with injury ,Possession of firearm with intent to injure (Group II),Violence and Sexual Offences
+5/16,Violence with injury ,Possession of firearm with intent to injure (Group III),Violence and Sexual Offences
+5/17,Violence with injury ,Use of firearm to resist arrest ,Violence and Sexual Offences
+5/18,Violence with injury ,Use of firearm to resist arrest ,Violence and Sexual Offences
+5/19,Violence with injury ,Use of firearm to resist arrest ,Violence and Sexual Offences
+5/20,Violence with injury ,Use of chemical weapons,Violence and Sexual Offences
+5/21,Violence with injury ,Premises or equipment for producing chemical weapons,Violence and Sexual Offences
+5/22,Violence with injury ,Use etc. of nuclear weapons,Violence and Sexual Offences
+5/23,Violence with injury ,Weapons related acts overseas,Violence and Sexual Offences
+5/24,Violence with injury ,Use of noxious substances or things to cause harm and intimidate,Violence and Sexual Offences
+5/25,Violence with injury ,Performs an aviation function or ancillary function when impaired by drink or drugs,Violence and Sexual Offences
+5/26,Violence with injury ,Endangering Safety at aerodromes,Violence and Sexual Offences
+5/27,Violence with injury ,Torture,Violence and Sexual Offences
+6/1,Violence with injury ,"Endangering railway passengers by placing anything on railway, taking up rails, changing points and signals etc.  ",Violence and Sexual Offences
+6/2,Violence with injury ,Endangering railway passengers by throwing anything at railway carriages etc. ,Violence and Sexual Offences
+6/3,Violence with injury ,"Endangering railway passengers by unlawful acts, or by omission or neglect ",Violence and Sexual Offences
+6/4,Violence with injury ,"Destroying, damaging etc. a Channel Tunnel train or the Tunnel system or committing acts of violence likely to endanger safety of operation ",Violence and Sexual Offences
+7/1,Violence with injury ,Sending unseaworthy ship to sea ,Violence and Sexual Offences
+7/2,Violence with injury ,Not waiting to save lives in collision,Violence and Sexual Offences
+7/3,Violence with injury ,"Endangering ship, life or limb on shipboard by breach of duty",Violence and Sexual Offences
+7/4,Violence with injury ,Failing to assist ships in distress or persons in danger at sea,Violence and Sexual Offences
+7/5,Violence with injury ,Taking or sending ship to sea with load line submerged,Violence and Sexual Offences
+7/6,Violence with injury ,Contravening cargo ship construction & survey rules,Violence and Sexual Offences
+7/7,Violence with injury ,"Misconduct of master or crew likely to endanger ships, structures or individuals",Violence and Sexual Offences
+7/8,Violence with injury ,Drunkenness etc. on duty,Violence and Sexual Offences
+7/9,Violence with injury ,Contraventions of deck cargo regulations (load lines etc.),Violence and Sexual Offences
+7/10,Violence with injury ,Intentionally making false or fraudulent certificate (load lines etc.),Violence and Sexual Offences
+7/11,Violence with injury ,"Using unsafe lighter, barge etc., likely to endanger life",Violence and Sexual Offences
+7/12,Violence with injury ,"Disobedience, neglect of duty, impeding navigation of ship",Violence and Sexual Offences
+7/13,Violence with injury ,"Master, Pilot or Seamans ability to carry out duties impaired because of drink or drugs",Violence and Sexual Offences
+7/14,Violence with injury ,Destroying ships or fixed platforms endangering their safety,Violence and Sexual Offences
+7/15,Violence with injury ,Other acts endangering or likely to endanger safe navigation,Violence and Sexual Offences
+7/16,Violence with injury ,"Inducing commission of offence relating to safety of ship, cargo or sea platform outside UK ",Violence and Sexual Offences
+7/17,Violence with injury ,"Assisting commission of offence relating to safety of ship, cargo or sea platform outside UK ",Violence and Sexual Offences
+8/1,Violence with injury ,Malicious Wounding:- wounding or inflicting grievous bodily harm,Violence and Sexual Offences
+8/1,Violence with injury ,Malicious Wounding:- wounding or inflicting grievous bodily harm,Violence and Sexual Offences
+8/2,Violence with injury ,Administering poison with intent to injure or annoy,Violence and Sexual Offences
+8/3,,Setting spring guns etc to injure trespassers,Possession of Weapons
+8/4,Violence with injury ,Drivers injuring persons by furious driving,Violence and Sexual Offences
+8/5,Violence with injury ,Assault on person preserving wreck,Violence and Sexual Offences
+8/6,Violence with injury ,Assault occasioning  actual bodily harm,Violence and Sexual Offences
+8/11,,Possession of offensive weapon without lawful authority or reasonable excuse,Possession of Weapons
+8/13,,Possessing firearm or imitation firearm while committing or being arrested for offence specified below,Possession of Weapons
+8/14,,Possessing firearm or imitation firearm while committing or being arrested for offence specified below ,Possession of Weapons
+8/15,,Possessing firearm or imitation firearm while committing or being arrested for offence specified below,Possession of Weapons
+8/16,,Possessing firearm or imitation firearm with intent to commit indictable offence or resist arrest ,Possession of Weapons
+8/17,,Possessing firearm or imitation firearm with intent to commit indictable offence or resist arrest ,Possession of Weapons
+8/18,,Possessing firearm or imitation firearm with intent to commit indictable offence or resist arrest ,Possession of Weapons
+8/20,Violence with injury ,Assault with intent to resist apprehension,Violence and Sexual Offences
+8/21,Violence with injury ,Owner or person in charge allowing dog  to be dangerously out of control in Any place in England and Wales (whether or not in a public place) injuring any person or assistance dog,Violence and Sexual Offences
+8/23,,Possessing firearm or imitation firearm with intent to cause fear of violence ,Possession of Weapons
+8/24,,Possessing firearm or imitation firearm with intent to cause fear of violence ,Possession of Weapons
+8/25,,Possessing firearm or imitation firearm with intent to cause fear of violence ,Possession of Weapons
+8/26,,Having an article with a blade or point in a public place,Possession of Weapons
+8/27,,Having an article with a blade or point on school premises,Possession of Weapons
+8/28,,Possession of other offensive weapon on school premises,Possession of Weapons
+8/29,Stalking and Harassment,Breach of conditions of injunction against harassment ,Violence and Sexual Offences
+8/30,Stalking and Harassment,Putting people in fear of violence,Violence and Sexual Offences
+8/31,Stalking and Harassment,Breach of a restraining order,Violence and Sexual Offences
+8/32,,Breach of Anti-Social Behaviour Order,Public Order
+8/52,Violence with injury ,"Excise, infibulate, aid, abet, counsel",Violence and Sexual Offences
+8/53,,Using someone to look after a dangerous weapon - offensive/weapon/knife/bladed weapon,Possession of Weapons
+8/54,,Using someone to look after a dangerous weapon firearm,Possession of Weapons
+8/55,,Racially or religiously aggravated intentional harassment or alarm or distress - words or writing,Public Order
+8/56,Stalking and Harassment,Racially or religiously aggravated Stalking without violence,Violence and Sexual Offences
+8/57,Violence without injury,Racially or Religiously aggravated common assault or beating,Violence and Sexual Offences
+8/58,Stalking and Harassment,Racially or Religiously Aggravated Stalking with fear of violence,Violence and Sexual Offences
+8/59,Violence with injury ,Racially or Religiously Aggravated wounding or grievous bodily harm,Violence and Sexual Offences
+8/60,Violence with injury ,Racially or Religiously Aggravated assault occasioning actual bodily harm,Violence and Sexual Offences
+8/61,,Threaten with an offensive weapon in a public place,Possession of Weapons
+8/62,,Threaten with a blade or sharply pointed article on school premises,Possession of Weapons
+8/63,,Threaten with an offensive weapon on school premises,Possession of Weapons
+8/64,,Threaten with a blade or sharply pointed article in a public place,Possession of Weapons
+8/65,Stalking and Harassment,Stalking involving fear of violence,Violence and Sexual Offences
+8/66,Stalking and Harassment,Stalking involving serious alarm/distress,Violence and Sexual Offences
+8/67,Violence without injury,Engage in controlling/coercive behaviour in an intimate / family relationship.,Violence and Sexual Offences
+8/68,Violence with injury ,Fail to protect girl from risk of genital mutilation,Violence and Sexual Offences
+8/69,Violence with injury ,Care worker ill-treat /wilfully neglect an individual,Violence and Sexual Offences
+8/70,Violence with injury ,Care provider breach duty of care resulting in ill-treatment/neglect of individual,Violence and Sexual Offences
+8/71,Stalking and Harassment,Disclose private sexual photographs with intent to cause distress,Violence and Sexual Offences
+8/72,Stalking and Harassment,Sending letters etc with intent to cause distress or anxiety,Violence and Sexual Offences
+11/2,Violence without injury,Neglecting to provide for apprentice or servant,Violence and Sexual Offences
+11/3,Violence without injury,Cruelty to and neglect of children,Violence and Sexual Offences
+12,Violence without injury,Abandoning child under two years,Violence and Sexual Offences
+13/1,violence without injury,Abduction of a child by parent,Violence and Sexual Offences
+13/2,violence without injury,Abduction of child by other persons,Violence and Sexual Offences
+14/1,Violence without injury,Administering drugs or using instruments to procure abortion,Violence and Sexual Offences
+14/2,Violence without injury,Procuring drugs etc. to cause abortion,Violence and Sexual Offences
+15/00, ,Concealment of birth,Other Crime
+17/13,Other sexual offences,Assault on a male by penetration,Violence and Sexual Offences
+17/14,Other sexual offences,Assault on a male child under 13 by penetration,Violence and Sexual Offences
+17/15,Other sexual offences,Sexual assault on a male,Violence and Sexual Offences
+17/16,Other sexual offences,Sexual assault on a male child under 13,Violence and Sexual Offences
+19/7,Rape,Rape of a female aged under 16,Violence and Sexual Offences
+19/8,Rape,Rape of a female aged 16 or over,Violence and Sexual Offences
+19/9,Rape,Rape of a male aged under 16,Violence and Sexual Offences
+19/10,Rape,19F Rape of a male aged 16 or over,Violence and Sexual Offences
+19/11,Rape,Attempted rape of a female aged under 16,Violence and Sexual Offences
+19/12,Rape,Attempted rape of a female aged 16 or over,Violence and Sexual Offences
+19/13,Rape,Attempted rape of a male aged under 16,Violence and Sexual Offences
+19/14,Rape,19F Attempted rape of a male aged 16 or over,Violence and Sexual Offences
+19/16,Rape,Rape of a female child under 13 by a male,Violence and Sexual Offences
+19/17,Rape,Rape of a male child under 13 by a male,Violence and Sexual Offences
+19/18,Rape,Attempted rape of a female child under 13 by a male,Violence and Sexual Offences
+19/19,Rape,Attempted rape of a male child under 13 by a male,Violence and Sexual Offences
+20/3,Other sexual offences,Assault on a female by penetration,Violence and Sexual Offences
+20/4,Other sexual offences,Assault of a female child under 13 by penetration,Violence and Sexual Offences
+20/5,Other sexual offences,Sexual assault on a female,Violence and Sexual Offences
+20/6,Other sexual offences,Sexual assault of a female child under 13,Violence and Sexual Offences
+21/2,Other sexual offences,Causing or inciting a child under 13 to engage in sexual activity - Female child penetration,Violence and Sexual Offences
+21/3,Other sexual offences,Causing or inciting a child under 13 to engage in sexual activity - Female child - no penetration,Violence and Sexual Offences
+21/4,Other sexual offences,Causing or inciting a child under 13 to engage in sexual activity - Male child penetration,Violence and Sexual Offences
+21/5,Other sexual offences,Causing or inciting a child under 13 to engage in sexual activity - Male child - no penetration,Violence and Sexual Offences
+21/10,Other sexual offences,Engaging in sexual activity in the presence of a child under 13 by an offender over 18 years old,Violence and Sexual Offences
+21/11,Other sexual offences,Causing a child under 13 to watch a sexual act - Offender aged 18 or over,Violence and Sexual Offences
+21/12,Other sexual offences,Sexual activity with a child under 13 - Female child penetration - Offender under 18,Violence and Sexual Offences
+21/13,Other sexual offences,Sexual activity with a child under 13 - Male child penetration - Offender under 18,Violence and Sexual Offences
+21/14,Other sexual offences,Causing or inciting a child under 13 to engage in sexual activity - Female child penetration- Offender under 18,Violence and Sexual Offences
+21/15,Other sexual offences,Causing or inciting a child under 13 to engage in sexual activity - Male child - Offender under 18,Violence and Sexual Offences
+21/16,Other sexual offences,Engaging in sexual activity in the presence of a child under 13 - Offender under 18,Violence and Sexual Offences
+21/17,Other sexual offences,Causing a child under 13 to watch a sexual act - Offender aged  under 18 ,Violence and Sexual Offences
+21/22,Other sexual offences,Sexual activity with a child under 13 - Female child - no penetration - Offender under 18,Violence and Sexual Offences
+21/23,Other sexual offences,Sexual activity with a child under 13 - Male child - no penetration - Offender under 18,Violence and Sexual Offences
+21/24,Other sexual offences,Causing or inciting a child under 13 to engage in sexual activity - Female child - no penetration - Offender under 18,Violence and Sexual Offences
+21/25,Other sexual offences,Causing or inciting a child under 13 to engage in sexual activity - Male child - no penetration - Offender under 18,Violence and Sexual Offences
+22/2,Other sexual offences,Causing a person to engage in sexual activity without consent - Female person,Violence and Sexual Offences
+22/3,Other sexual offences,Causing a person to engage in sexual activity without consent - Male person,Violence and Sexual Offences
+22/4,Other sexual offences,Causing a person to engage in sexual activity without consent - Female person - no penetration,Violence and Sexual Offences
+22/5,Other sexual offences,Causing a person to engage in sexual activity without consent - Male person - no penetration,Violence and Sexual Offences
+22/6,Other sexual offences,Sexual activity with a child under 16 - Female child penetration,Violence and Sexual Offences
+22/7,Other sexual offences,Sexual activity with a child under 16 - Male child penetration,Violence and Sexual Offences
+22/8,Other sexual offences,Causing or inciting a child under 16 to engage in sexual activity - Female child penetration,Violence and Sexual Offences
+22/9,Other sexual offences,Causing or inciting a child under 16 to engage in sexual activity - Male child,Violence and Sexual Offences
+22/10,Other sexual offences,Engaging in sexual activity in the presence of a child under 16,Violence and Sexual Offences
+22/11,Other sexual offences,Causing a child under 16 to watch a sexual act,Violence and Sexual Offences
+22/12,Other sexual offences,Sexual activity with a child under 16 - Female child penetration - Offender under 18,Violence and Sexual Offences
+22/13,Other sexual offences,Sexual activity with a child under 16 - Male child penetration - Offender under 18,Violence and Sexual Offences
+22/14,Other sexual offences,Causing or inciting a child under 16 to engage in sexual activity - Female child penetration- Offender under 18,Violence and Sexual Offences
+22/15,Other sexual offences,Causing or inciting a child under 16 to engage in sexual activity - Male child penetration - Offender under 18,Violence and Sexual Offences
+22/16,Other sexual offences,Engaging in sexual activity in the presence of a child under 16 - Offender under 16,Violence and Sexual Offences
+22/17,Other sexual offences,Causing a child under 16 to watch a sexual act - Offender under 18,Violence and Sexual Offences
+22/18,Other sexual offences,Sexual activity with a child under 16 - Female child - no penetration,Violence and Sexual Offences
+22/19,Other sexual offences,Sexual activity with a child under 16 - Male child - no penetration,Violence and Sexual Offences
+22/20,Other sexual offences,Causing or inciting a child under 16 to engage in sexual activity - Female child - no penetration,Violence and Sexual Offences
+22/21,Other sexual offences,Causing or inciting a child under 16 to engage in sexual activity - Male child -no penetration,Violence and Sexual Offences
+22/22,Other sexual offences,Sexual activity with a child under 16 - Female child - no penetration - Offender under 18,Violence and Sexual Offences
+22/23,Other sexual offences,Sexual activity with a child under 16 - Male child - no penetration - Offender under 18,Violence and Sexual Offences
+22/24,Other sexual offences,Causing or inciting a child under 16 to engage in sexual activity - Female child - no penetration - Offender under 18,Violence and Sexual Offences
+22/25,Other sexual offences,Causing or inciting a child under 16 to engage in sexual activity - Male child -no penetration - Offender under 18,Violence and Sexual Offences
+23/4,Other sexual offences,Sexual activity with a child family member - penetration - offender 18 or over - victim female 13 to 17,Violence and Sexual Offences
+23/5,Other sexual offences,Sexual activity with a child family member - penetration - offender 18 or over - victim male 13 to 17,Violence and Sexual Offences
+23/6,Other sexual offences,Sexual activity with a child family member - no penetration - offender under 18 - victim female 13 to 17,Violence and Sexual Offences
+23/7,Other sexual offences,Sexual activity with a child family member - no penetration - offender under 18 - victim male 13 to 17,Violence and Sexual Offences
+23/8,Other sexual offences,Inciting a child family member to engage in sexual activity - penetration - offender 18 or over - victim female 13 to 17,Violence and Sexual Offences
+23/9,Other sexual offences,Inciting a child family member to engage in sexual activity - penetration - offender 18 or over - victim male 13 to 17,Violence and Sexual Offences
+23/10,Other sexual offences,Inciting a child family member to engage in sexual activity - no penetration - offender under 18 - victim female 13 to 17,Violence and Sexual Offences
+23/11,Other sexual offences,Inciting a child family member to engage in sexual activity - no penetration - offender under 18 - victim male 13 to 17,Violence and Sexual Offences
+23/12,Other sexual offences,Sex with an adult relative - penetration - offender aged 16 or over relative aged 18 or over,Violence and Sexual Offences
+23/13,Other sexual offences,Sex with an adult relative - consenting to penetration - offender aged 16 or over relative aged 18 or over,Violence and Sexual Offences
+23/14,Other sexual offences,Sexual activity with a child family member - penetration - offender 18 or over - victim female under 13,Violence and Sexual Offences
+23/15,Other sexual offences,Sexual activity with a child family member - penetration - offender 18 or over - victim male under 13,Violence and Sexual Offences
+23/16,Other sexual offences,Sexual activity with a child family member - no penetration - offender under 18 - victim female under 13,Violence and Sexual Offences
+23/17,Other sexual offences,Sexual activity with a child family member - no penetration - offender under 18 - victim male under 13,Violence and Sexual Offences
+23/18,Other sexual offences,Inciting a child family member to engage in sexual activity - penetration - offender 18 or over - victim female under 13,Violence and Sexual Offences
+23/19,Other sexual offences,Inciting a child family member to engage in sexual activity - penetration - offender 18 or over - victim male under 13,Violence and Sexual Offences
+23/20,Other sexual offences,Inciting a child family member to engage in sexual activity - no penetration - offender under 18 - victim female under 13,Violence and Sexual Offences
+23/21,Other sexual offences,Inciting a child family member to engage in sexual activity - no penetration - offender under 18 - victim male under 13,Violence and Sexual Offences
+23/22,Other sexual offences,Sexual activity with a child family member - no penetration - offender 18 or over - victim female 13 to 17,Violence and Sexual Offences
+23/23,Other sexual offences,Sexual activity with a child family member - no penetration - offender 18 or over - victim male 13 to 17,Violence and Sexual Offences
+23/24,Other sexual offences,Sexual activity with a child family member - no penetration - offender 18 or over - victim female under 13,Violence and Sexual Offences
+23/25,Other sexual offences,Sexual activity with a child family member - no penetration - offender 18 or over - victim male under 13,Violence and Sexual Offences
+23/26,Other sexual offences,Inciting a child family member to engage in sexual activity - no penetration - offender 18 or over - victim female 13 to 17,Violence and Sexual Offences
+23/27,Other sexual offences,Inciting a child family member to engage in sexual activity - no penetration - offender 18 or over - victim male 13 to 17,Violence and Sexual Offences
+23/28,Other sexual offences,Inciting a child family member to engage in sexual activity - no penetration - offender 18 or over - victim female under 13,Violence and Sexual Offences
+23/29,Other sexual offences,Inciting a child family member to engage in sexual activity - no penetration - offender 18 or over - victim male under 13,Violence and Sexual Offences
+23/30,Other sexual offences,Sexual activity with a child family member - penetration - offender under 18 - victim female under 13,Violence and Sexual Offences
+23/31,Other sexual offences,Sexual activity with a child family member - penetration - offender under 18 - victim male under 13,Violence and Sexual Offences
+23/32,Other sexual offences,Sexual activity with a child family member - penetration - offender under 18 - victim female 13 to 17,Violence and Sexual Offences
+23/33,Other sexual offences,Sexual activity with a child family member - penetration - offender under 18 - victim male 13 to 17,Violence and Sexual Offences
+23/34,Other sexual offences,Inciting a child family member to engage in sexual activity - penetration - offender under 18 - victim female under 13,Violence and Sexual Offences
+23/35,Other sexual offences,Inciting a child family member to engage in sexual activity - penetration - offender under 18 - victim male under 13,Violence and Sexual Offences
+23/36,Other sexual offences,Inciting a child family member to engage in sexual activity - penetration - offender under 18 - victim female 13 to 17,Violence and Sexual Offences
+23/37,Other sexual offences,Inciting a child family member to engage in sexual activity - penetration - offender under 18 - victim male 13 to 17,Violence and Sexual Offences
+24/17,,Causing or inciting prostitution for gain,Other Crime
+24/18,,Controlling prostitution for gain,Other Crime
+24/19,,Keeping a brothel used for prostitution,Other Crime
+26,,Bigamy,Other Crime
+28/3,Burglary Residential,Burglary,Burglary
+28/3,Burglary Residential,Burglary,Burglary
+28/3,Burglary Residential,Burglary,Burglary
+28/3,Burglary Residential,Burglary,Burglary
+29,Burglary Residential,Aggravated burglary ,Burglary
+30/2,Burglary Business and Community,Burglary ,Burglary
+30/2,Business and Community ,Burglary ,Burglary
+31,Burglary Business and Community,Aggravated Burglary ,Burglary
+33,,Going equipped for stealing etc,Other Crime
+34/1,,Robbery -  personal,Robbery
+34/1,,Robbery - business,Robbery
+34/2,,Assault with intent to rob - personal,Robbery
+34/2,,Assault with intent to rob - business,Robbery
+35,Other theft,Blackmail,Other Theft
+36/1,Violence without injury,Kidnapping,Violence and Sexual Offences
+36/2,Violence without injury,Hijacking,Violence and Sexual Offences
+36/2,Violence without injury,"Destroying, damaging or endangering safety or aircraft",Violence and Sexual Offences
+36/2,Violence without injury,Other acts endangering safety of aircraft,Violence and Sexual Offences
+36/2,Violence without injury,"Hijacking, destroying or damaging Channel Tunnel train or system ",Violence and Sexual Offences
+36/2,Violence without injury,,Violence and Sexual Offences
+36/3,Violence without injury,False imprisonment,Violence and Sexual Offences
+36/4,Violence without injury,Detaining and threatening to kill or injure a hostage,Violence and Sexual Offences
+36/5,Violence without injury,Forced Marriage Offences ,Violence and Sexual Offences
+36/6,Violence without injury,Hold person in slavery or servitude,Violence and Sexual Offences
+36/7,Violence without injury,Require person to perform forced or compulsory labour,Violence and Sexual Offences
+36/8,Violence without injury,Arrange or facilitate travel of another person with a view to exploitation,Violence and Sexual Offences
+36/10,Violence without injury,Commit offence other than kidnapping or false imprisonment with intention of arranging travel with view to exploitation,Violence and Sexual Offences
+36/11,Violence without injury,Commit offence of kidnapping or false imprisonment with intention of arranging travel with view to exploitation,Violence and Sexual Offences
+36/12,Violence without injury,Do act prohibited by slavery and trafficking risk or prevention order,Violence and Sexual Offences
+36/13,Violence without injury,Fail to comply with requirement to surrender passport under Modern Slavery Act 2015,Violence and Sexual Offences
+36/14,Violence without injury,Fail to comply with requirement to provide name and address under Modern Slavery Act 2015,Violence and Sexual Offences
+37/1,Death or serious injury caused by illegal driving,Causing death by aggravated vehicle taking,Violence and Sexual Offences
+37/2,,Aggravated vehicle taking,Vehicle Crime
+38/1,,Concealing etc. criminal property,Other Crime
+38/2,,"Arrangements - concerned in arrangement, knows or suspects, facilitates acquisition, retention, use or control of criminal property by, or on behalf of another person",Other Crime
+38/3,,"Acquisition, use & possession",Other Crime
+38/4,,Failure to disclose; another person involved in money laundering - regulated sector,Other Crime
+38/5,,Failure to disclose; another person involved in money laundering - nominated officer in the regulated field,Other Crime
+38/6,,Failure to disclose; another person involved in money laundering - other nominated officer in the regulated field,Other Crime
+38/7,,"Tipping off - knows or suspects a disclosure has been made,; makes a disclosure likely to prejudice an investigation",Other Crime
+38/7,,Tipping off - regulated sector - disclosure of S.21D(2) matters or that investigations into allegation of offence committed is being considered,Other Crime
+38/8,,Nominated officer; must not give consent to the doing of a prohibited act,Other Crime
+38/9,,Failure to comply with regulations,Other Crime
+39,Theft from the person ,Theft from the person of another,Theft from the Person
+40,Other theft,Theft in a dwelling other than from automatic machine or meter,Other Theft
+41,Other theft,Theft by an employee,Other Theft
+42,Other theft,Theft of mail bag or postal packet,Other Theft
+43,Other theft,Abstracting electricity,Other Theft
+44,Bicycle theft,Theft of a pedal cycle,Bicycle Theft
+45/10,,Theft from a motor vehicle,Vehicle Crime
+45/11,,Theft from vehicle other than a motor vehicle,Other Theft
+46,Shoplifting,Theft from shops and stalls,Shoplifting
+47,Other theft,Theft from automatic machine or meter,Other Theft
+48/1,,Theft of a motor vehicle,Vehicle Crime
+49/10,Other theft,Theft if not classified elsewhere,Other Theft
+49/11,Other theft,Removal of articles from places open to the public,Other Theft
+49/12,Other theft,Theft of conveyance other than motor vehicle or pedal cycle,Other Theft
+53/25,Other theft,Making off without payment,Other Theft
+53/43,,Possess/control article(s) for use in fraud(s),Other Crime
+53/44,,Making or supplying articles for use in frauds ,Other Crime
+53/55,,"Making, supplying or obtaining articles for use in offence under sections 1 or 3",Other Crime
+54/1,,Receiving stolen goods,Other Crime
+54/2,,"Undertaking or assisting in the retention, removal, disposal or realisation of stolen goods or arranging to do so",Other Crime
+56/1,Arson,Arson endangering life,Criminal Damage and Arson
+56/2,Arson,Arson not endangering life ,Criminal Damage and Arson
+57,Criminal damage,Criminal damage to a dwelling endangering life,Criminal Damage and Arson
+57,Criminal damage,Criminal damage to a building other than a dwelling endangering life,Criminal Damage and Arson
+57,Criminal damage,Criminal damage to a vehicle endangering life,Criminal Damage and Arson
+57,Criminal damage,Criminal damage endangering life other,Criminal Damage and Arson
+58,Criminal damage,Other criminal damage to a dwelling ,Criminal Damage and Arson
+58,Criminal damage,Other criminal damage to a building other than a dwelling,Criminal Damage and Arson
+58,Criminal damage,Other criminal damage to a vehicle ,Criminal Damage and Arson
+58,Criminal damage,"Other criminal damage, other ",Criminal Damage and Arson
+58/4,Criminal damage,Racially or religiously Aggravated Criminal Damage,Criminal Damage and Arson
+59/11,,Threats to destroy or damage property,Other Crime
+59/13,Criminal damage,Possessing anything with intent to destroy or damage property,Other Crime
+59/14,Criminal damage,Manufacture or possession of explosives under suspicious circumstances,Other Crime
+59/15,Criminal damage,"Possessing or making an explosive substance, a noxious or dangerous thing, machine, engine, or instrument with intent to commit an offence under this act",Other Crime
+60/21,,Forgery of a drug prescription or copying a false drug prescription,Other Crime
+60/22,,Using a false drug prescription or a copy of a false drug prescription,Other Crime
+61/21,,Forgery or copying false instrument (other than drug prescription) ,Other Crime
+61/21,,Forgery etc of mental health document.,Other Crime
+61/22,,Using a false instrument or a copy of a false instrument,Other Crime
+61/23,,Possess false instrument or materials to make false instrument,Other Crime
+61/23,,Possess false mental health document,Other Crime
+61/24,,Making counterfeit coin or note,Other Crime
+61/25,,Pass etc. counterfeit coin or note as genuine,Other Crime
+61/26,,Possess counterfeit coin or note,Other Crime
+61/27,,Possess materials or dies to make counterfeit coin or note,Other Crime
+61/28,,Reproduce British currency note or make imitation coins,Other Crime
+61/29,,Melting down or breaking up metal coin without licence,Other Crime
+61/30,,Prohibited descriptions of unhallmarked article;,Other Crime
+61/30,,Unauthorised striking of sponsor’s mark;  ,Other Crime
+61/30,,Supplying false information to assay office,Other Crime
+61/30,,Making unauthorised alterations to hallmarked article,Other Crime
+61/30,,Supplying article with unauthorised mark,Other Crime
+61/31,,Counterfeiting etc. of dies or marks,Other Crime
+61/32,,Failure to withdraw from circulation a Euro note or coin which is believed to be counterfeit,Other Crime
+61/33,,Failure to hand over a Euro note or coin believing it to be counterfeit,Other Crime
+61/38,,Possess / control identity documents with intent,Other Crime
+61/39,,Make / possess / control apparatus / article / material designed / adapted for making false identity documents,Other Crime
+61/40,,Possess / control a false / improperly obtained / another persons identity document,Other Crime
+61/41,,Prohibition on the importation of false identity documents,Other Crime
+62,,Treason,Public Order
+62,,Attempting to injure or alarm the sovereign,Public Order
+63,,Treason-felony,Public Order
+64/1,,Riot,Public Order
+65,,Violent disorder,Public Order
+66/1,,Affray,Public Order
+66/11,,Prohibition of disclosures – national security,Public Order
+66/12,,Prohibition of disclosures – uranium enrichment technology,Public Order
+66/13,,Failure to disclose knowledge gained in the course of business,Public Order
+66/14,,Failure to disclose information about acts of terrorism,Public Order
+66/15,,Hoaxes involving noxious substances or things,Public Order
+66/17,,Failure to comply with Notification Order,Public Order
+66/18,,"Notifies police, under Notification Order, with false information",Public Order
+66/2,,Contempt of Court,Public Order
+66/21,,"Committing or conspiring to commit, an act outraging public decency",Public Order
+66/22,,Public Nuisance,Public Order
+66/23,,Acts intended or likely to stir up racial or religious hatred - Use of words or behaviour or display or written material ,Public Order
+66/24,,Acts intended or likely to stir up racial or religious hatred - Publishing or distributing written material,Public Order
+66/25,,Acts intended or likely to stir up racial or religious hatred - Public performance of play ,Public Order
+66/26,,"Acts intended or likely to stir up racial or religious hatred - Distributing, showing or playing a recording ",Public Order
+66/27,,Acts intended or likely to stir up racial or religious hatred - Broadcasting including programme in programme service,Public Order
+66/28,,Acts intended or likely to stir up racial or religious hatred - Possession of racially inflammatory material ,Public Order
+66/29,,"Unauthorised use of uniforms; falsification of reports, forgery, personation and false documents.  Interfering with officers of the police or members of His Majesty's forces.  Duty of giving information as to commission of offences.",Public Order
+66/3,,Placing or dispatching articles to cause a bomb hoax,Public Order
+66/30,,Commit act prejudicial to safety or interest of the State,Public Order
+66/31,,Knowingly harbouring spy,Public Order
+66/32,,Serving member/former member of Security or intelligence Services disclosing information relating to security or intelligence.  Person notified as subject to security or intelligence provisions unlawfully disclosing secret/ unlawfully disclosing secret.,Public Order
+66/33,,Former or current Crown Servant/Government Contractor making damaging disclosure relating to security or intelligence.,Public Order
+66/34,,Former or current Crown Servant/Government Contractor making damaging disclosure relating to defence matter.,Public Order
+66/35,,Former or current Crown Servant/Government Contractor making damaging disclosure or confidential matter from Foreign State or relating to international relations.,Public Order
+66/36,,"Former or current Crown Servant/Government Contractor disclosing information resulting in commission of offence/facilitating escape from custody/ facilitating act prejudicial to safekeeping of person in custody / impending prevention / detection of offence, apprehension / prosecution of suspected offender etc",Public Order
+66/37,,(2) Making damaging disclosure of protected information or information (6) Disclosing information gained in contravention of s1 of Official Secrets Act 1911,Public Order
+66/38,,Breach of a restraining Order issued on acquittal,Public Order
+66/39,,Breach of non-molestation order,Public Order
+66/4,,Communicating false information alleging presence of bomb,Public Order
+66/42,,Interfere with contractual relationships so as to harm animal research organisations,Public Order
+66/43,,Intimidation of persons connected with animal research organisations,Public Order
+66/44,,Compelling by threatening to destroy or damage ship or sea platform or property used in navigation,Public Order
+66/45,,Use of words or behaviour or display of written material (Acts intended to stir up religious hatred). ,Public Order
+66/46,,Publishing or distributing written material (Acts intended to stir up religious hatred). ,Public Order
+66/47,,Public performance of a play (Acts intended to stir up religious hatred). ,Public Order
+66/48,,"Distributing, showing or playing a recording (Acts intended to stir up religious hatred).",Public Order
+66/49,,Provider of programme - broadcasting or including programme in programme service (Acts intended to stir up religious hatred).,Public Order
+66/5,,Admitting football spectators to unlicensed premises,Public Order
+66/50,,Producer or Director of programme - broadcasting or including programme in programme service (Acts intended to stir up religious hatred). ,Public Order
+66/51,,Person using offending words or behaviour - broadcasting or including programme in programme service (Acts intended to stir up religious hatred). ,Public Order
+66/52,,Possession of inflammatory material (Acts intended to stir up religious hatred). ,Public Order
+66/53,,Publish/cause another to publish a statement intending to/recklessly encouraging terrorism.,Public Order
+66/54,,Distribute/circulate a terrorist publication.,Public Order
+66/55,,Give/sell/lend/offer for sale/offer for loan a terrorist publication.,Public Order
+66/56,,Provide service re reading/listening to a terrorist publication.,Public Order
+66/57,,Transmit contents of a terrorist publication.,Public Order
+66/58,,Possess terrorist publication with view to distribution/sale/ loan/read/listen to/seen etc.,Public Order
+66/59,,With intent that self/to assist another to commit act of terrorism engage in preparation.,Public Order
+66/6,,Threats of attack on United Nations workers,Public Order
+66/60,,Provide instruction/training for terrorism,Public Order
+66/61,,Receive instruction/training for terrorism.,Public Order
+66/62,,Attend any place in UK/elsewhere for instruction training in terrorism.,Public Order
+66/64,,Possess radioactive material with intent use it in commission/preparation for terrorism,Public Order
+66/65,,Use radioactive device/material in the course of / in connection with commission /purposes of terrorism,Public Order
+66/66,,In course of/in connection with commission / purposes of terrorism use/damage nuclear facility to cause release / ask of release of radioactive material,Public Order
+66/67,,Terrorist make demand relating to devices/materials/facilities,Public Order
+66/68,,Terrorist make threat to use radioactive device/material,Public Order
+66/69,,Make/possess radioactive device with intent use it in commission/preparation for terrorism.,Public Order
+66/7,,Triable-either-way offences,Public Order
+66/77,,Disclose without lawful authority confidential information provided by the Treasury.,Public Order
+66/78,,Not under authority of a licence dealt with funds/economic resources belonging to/owned/held by an Art 7(2) person.,Public Order
+66/79,,Make funds/economic resources/financial services available directly to/indirectly to/for the benefit of Art 7(2) person.,Public Order
+66/80,,Participate in activity object/effect to circumvent Art 7(1)/8(1) prohibition enable/facilitate Art 7/8 offence. ,Public Order
+66/81,,Make a statement/furnish a document/information which is false in a material particular to obtain a Treasury licence.,Public Order
+66/82,,"Gives false information or documents or destroys, mutilates, etc, documents. ",Public Order
+66/83,,"Notify false information to police in purported compliance with s.108, 109, 110 or reg's under s.111",Public Order
+66/84,,Fail to comply with prohibition / restriction / condition contained in a violent offender order / interim order,Public Order
+66/85,,Fail to comply with notification requirements of s108(1),Public Order
+66/86,,Fail to comply with requirements re notification of changes under s109(1) ,Public Order
+66/87,,Fail to comply with the requirements of periodic notifications under s110(1),Public Order
+66/88,,Fail to permit the taking of fingerprints and / or photographs as required by s112(4),Public Order
+66/89,,Making damaging disclosure of information entrusted to other State of organisation,Public Order
+66/90,,Fail to comply with any regulation made under s111  ,Public Order
+66/91,,Racially or religiously aggravated fear or provocation of violence,Public Order
+66/92,,Offences in relation to notification requirements,Public Order
+66/93,,Breach of Foreign Travel Order,Public Order
+66/94,,Failure to comply with a Serious Crime Prevention Order ,Public Order
+66/95,,Disclosing information which can be used to gain access to protected information ,Public Order
+66/96,,Contravening a measure specified in a Terrorism Prevention and Investigation Measures Order,Public Order
+66/97,,Breach of a marriage protection order ,Public Order
+66/98,,Breach of a criminal behaviour order,Public Order
+66/99,,Triable-either-way offences,Public Order
+66/99,,Causing disaffection among the police,Public Order
+66/99,,Public order offences in relation to terrorism,Public Order
+66/99,,Eliciting publishing or communicating information about members of armed forces etc,Public Order
+66/99,,Prohibition of quasi-military organisations,Public Order
+66/99,,Failure to disclose knowledge or suspicion of offences,Public Order
+66/99,,Public order acts (not elsewhere specified) against Channel Tunnel,Public Order
+66/99,,Triable-either-way offences,Public Order
+66/99,,Triable-either-way offences,Public Order
+66/99,,Providing false information to obtain S17 licence  or failing to comply with condition of licence ,Public Order
+67/1,,Perjury - judicial proceedings,Other Crime
+67/1,,False written statements tendered  in evidence,Other Crime
+67/2,,False unsworn statements,Other Crime
+67/2,,False statements on oath not in judicial proceeding,Other Crime
+67/2,,False statements etc. - marriage,Other Crime
+67/2,,False statements etc. - births or deaths,Other Crime
+67/2,,False statutory statements etc. without oath,Other Crime
+67/2,,False declarations etc. to obtain registration,Other Crime
+67/2,,False statements etc. to obtain passport,Other Crime
+67/2,,Corruptly giving false certificate of  service of summons etc.,Other Crime
+67/2,,False entry or statement in document,Other Crime
+67/2,,False information re disused tips,Other Crime
+67/2,,False or misleading statements re interim possession orders,Other Crime
+68/1,,Participate in the criminal activities of an organised group,Public Order
+68/2,,Unauthorised act in relation to a computer causing /creating risk of serious damage ,Public Order
+68/3,,Unauthorised act in relation to a computer causing /creating risk of serious damage to human welfare / national security,Public Order
+68/4,,Breach a Female Genital Mutilation protection order,Public Order
+68/5,,Corrupt/improper exercise of police powers and privileges by a constable,Public Order
+68/6,,Care provider fail to comply with a remedial / publicity order,Public Order
+68/7,,Breach a sexual risk order / risk of sexual harm order etc or fail to comply with requirement under Sec 122 C (4) in relation to a sexual risk order.,Public Order
+68/8,,Breach SHPO / interim SHPO /SOPO / interim SOPO/ Foreign travel order or fail to comply with a requirement Under Sec 103D (4) in relation to a SHPO.,Public Order
+68/9,,Returns to UK in contravention of temporary exclusion order,Public Order
+68/10,,Fail to comply with obligation after return to the UK imposed under Section 9,Public Order
+68/11,,Fail to give permission for a laboratory test on a blood specimen having caused a death.,Public Order
+68/12,,Care provider supply / publish / make available information which was false or misleading in material respect ,Public Order
+68/13,,Contempt of Court by breach of Sec 17 of the Criminal Procedure and Investigations Act 1996,Public Order
+69/01,,Assisting a prisoner to escape,Other Crime
+69/02,,Conveyance etc. of List A articles into or out of prison,Other Crime
+69/03,,Conveyance etc. of List B articles into or out of prison,Other Crime
+69/04,,Other offences relating to prison security,Other Crime
+69/05,,Without authority possess inside a prison an item specified in Sec 40D (3A),Other Crime
+69/06,,Unauthorised possession in prison of knife or offensive weapon,Other Crime
+69/07,,Throwing articles into Prison,Other Crime
+70/1,Other sexual offences ,Sexual activity with a person with a mental disorder impeding choice - Male person,Violence and Sexual Offences
+70/10,Other sexual offences ,Causing a person with a mental disorder impeding choice to watch a sexual act,Violence and Sexual Offences
+70/11,Other sexual offences ,"Inducement, threat or deception to procure sexual activity with a person with a mental disorder - penetration",Violence and Sexual Offences
+70/12,Other sexual offences ,"Inducement, threat or deception to procure sexual activity with a person with a mental disorder - no penetration",Violence and Sexual Offences
+70/13,Other sexual offences ,"Causing a person with a mental disorder to engage in sexual activity by inducement, threat or deception - penetration",Violence and Sexual Offences
+70/14,Other sexual offences ,"Causing a person with a mental disorder to engage in sexual activity by inducement, threat or deception - no penetration",Violence and Sexual Offences
+70/15,Other sexual offences ,"Engaging in sexual activity in the presence, procured by inducement, threat or deception of a person with mental disorder",Violence and Sexual Offences
+70/16,Other sexual offences ,"Causing a person with a mental disorder to watch a sexual act by inducement, threat or deception",Violence and Sexual Offences
+70/17,Other sexual offences ,Care workers : Sexual activity with a person with a mental disorder - Male person,Violence and Sexual Offences
+70/18,Other sexual offences ,Care workers : Sexual activity with a person with a mental disorder - Female person,Violence and Sexual Offences
+70/19,Other sexual offences ,Care workers : Sexual activity with a person with a mental disorder - Male person - no penetration,Violence and Sexual Offences
+70/2,Other sexual offences ,Sexual activity with a person with a mental disorder impeding choice - Female person,Violence and Sexual Offences
+70/20,Other sexual offences ,Care workers : Sexual activity with a person with a mental disorder - Female person - no penetration,Violence and Sexual Offences
+70/21,Other sexual offences ,Care workers : Causing or inciting sexual activity (person with mental disorder) - Penetration,Violence and Sexual Offences
+70/22,Other sexual offences ,Care workers : Causing or inciting sexual activity (person with mental disorder) - No penetration,Violence and Sexual Offences
+70/23,Other sexual offences ,Care workers : Sexual activity in the presence of a person with a mental disorder ,Violence and Sexual Offences
+70/24,Other sexual offences ,Care workers : Causing a person with a mental disorder or learning disability to watch a sexual act,Violence and Sexual Offences
+70/3,Other sexual offences ,Sexual activity with a person with a mental disorder impeding choice - Male person - no penetration,Violence and Sexual Offences
+70/4,Other sexual offences ,Sexual activity with a person with a mental disorder impeding choice - Female person - no penetration,Violence and Sexual Offences
+70/5,Other sexual offences ,Causing or inciting a person with a mental disorder impeding choice to engage in sexual activity - Male person,Violence and Sexual Offences
+70/6,Other sexual offences ,Causing or inciting a person with a mental disorder impeding choice to engage in sexual activity - Female person ,Violence and Sexual Offences
+70/7,Other sexual offences ,Causing or inciting a person with a mental disorder impeding choice to engage in sexual activity - Male person - no penetration,Violence and Sexual Offences
+70/8,Other sexual offences ,Causing or inciting a person with a mental disorder impeding choice to engage in sexual activity - Female person - no penetration,Violence and Sexual Offences
+70/9,Other sexual offences ,Engaging in sexual activity in the presence of a person with a mental disorder impeding choice,Violence and Sexual Offences
+71/1,Other sexual offences ,Arranging or facilitating the commission of a child sex offence,Violence and Sexual Offences
+71/10,Other sexual offences ,Arranging or facilitating the sexual exploitation of a child - Child 13 - 17 ,Violence and Sexual Offences
+71/11,Other sexual offences ,Cause or incite the sexual exploitation of a child - Child under 13,Violence and Sexual Offences
+71/12,Other sexual offences ,Controlling a child subject to sexual exploitation - Child under 13,Violence and Sexual Offences
+71/13,Other sexual offences ,Arranging or facilitating the sexual exploitation of a child - Child under 13 ,Violence and Sexual Offences
+71/14,Other sexual offences ,Paying for the sexual services of a child - Female child under 16,Violence and Sexual Offences
+71/15,Other sexual offences ,Paying for the sexual services of a child - Male child under 16,Violence and Sexual Offences
+71/2,Other sexual offences ,Paying for the sexual services of a child - Female child under 13,Violence and Sexual Offences
+71/3,Other sexual offences ,Paying for the sexual services of a child - Male child under 13,Violence and Sexual Offences
+71/4,Other sexual offences ,Paying for the sexual services of a child - Female child under 16 - no penetration,Violence and Sexual Offences
+71/5,Other sexual offences ,Paying for the sexual services of a child - Male child under 16 - no penetration,Violence and Sexual Offences
+71/6,Other sexual offences ,Paying for the sexual services of a child - Female child under 18,Violence and Sexual Offences
+71/7,Other sexual offences ,Paying for the sexual services of a child - Male child under 18,Violence and Sexual Offences
+71/8,Other sexual offences ,Cause or incite the sexual exploitation of a child - Child 13 - 17,Violence and Sexual Offences
+71/9,Other sexual offences ,Controlling a child subject to sexual exploitation - Child 13 - 17,Violence and Sexual Offences
+71/16,Other sexual offences ,Possess a paedophile manual,Violence and Sexual Offences
+71/17,Other sexual offences ,Engage in sexual communication with a child,Violence and Sexual Offences
+73/10,Other sexual offences ,Abuse of position of trust: causing or inciting a child to engage in sexual activity - Male child aged 13 - 17,Violence and Sexual Offences
+73/11,Other sexual offences ,Abuse of position of trust: sexual activity in the presence of a child. Offender 18 or over - Child aged 13 - 17,Violence and Sexual Offences
+73/12,Other sexual offences ,Abuse of position of trust: causing a child to watch a sexual activity.  Offender 18 or over - Child aged 13 - 17,Violence and Sexual Offences
+73/13,Other sexual offences ,Abuse of position of trust: sexual activity with a child - Female child under 13,Violence and Sexual Offences
+73/14,Other sexual offences ,Abuse of position of trust: sexual activity with a child - Male child under 13,Violence and Sexual Offences
+73/15,Other sexual offences ,Abuse of position of trust: causing or inciting a child to engage in sexual activity - Female child under 13,Violence and Sexual Offences
+73/16,Other sexual offences ,Abuse of position of trust: causing or inciting a child to engage in sexual activity - Male child under 13,Violence and Sexual Offences
+73/17,Other sexual offences ,Abuse of position of trust: sexual activity in the presence of a child. Offender 18 or over - Child under 13,Violence and Sexual Offences
+73/18,Other sexual offences ,Abuse of position of trust: causing a child to watch a sexual activity. Offender 18 or over - Child under 13 ,Violence and Sexual Offences
+73/7,Other sexual offences ,Abuse of position of trust: sexual activity with a child - Female child aged 13 - 17,Violence and Sexual Offences
+73/8,Other sexual offences ,Abuse of position of trust: sexual activity with a child - Male child aged 13 - 17,Violence and Sexual Offences
+73/9,Other sexual offences ,Abuse of position of trust: causing or inciting a child to engage in sexual activity - Female child aged 13 - 17,Violence and Sexual Offences
+75/39,,Cheating at gambling or enabling or assisting person to cheat,Other Crime
+75/60,,Contravention of the regulations as to the promotion of lotteries that form part of the National lottery,Other Crime
+75/61,,False representations as to the National Lottery,Other Crime
+75/62,,Wrongful Disclosure of information received from HMRC relating to an identifiable person,Other Crime
+76/01,,Intentionally doing an act capable of encouraging or assisting the suicide or attempted suicide of another ,Other Crime
+77/50,Trafficking of drugs,Manufacturing a scheduled substance,Drugs
+77/51,Trafficking of drugs,Supplying a scheduled substance to another person ,Drugs
+77/52,Trafficking of drugs,"Failure to comply with regulations made by the Secretary of State as regards documentation, record keeping, labelling etc",Drugs
+77/53,Trafficking of drugs,Possession on a ship of a controlled drug intended for trafficking - Class A,Drugs
+77/54,Trafficking of drugs,Possession on a ship of a controlled drug intended for trafficking - Class B,Drugs
+77/55,Trafficking of drugs,"Having a controlled drug in possession on a ship CLASS C DRUG*
+* Not to be confused with importation and exportation of drugs under Customs and Excise Management Act 1979",Drugs
+77/56,Trafficking of drugs,Carrying or concealing on a ship a controlled drug intended for trafficking - Class A,Drugs
+77/57,Trafficking of drugs,Carrying or concealing on a ship a controlled drug intended for trafficking - Class B,Drugs
+77/58,Trafficking of drugs,Knowingly being concerned in the carrying or concealing of a controlled drug on a ship CLASS C DRUG*                                                                          * Not to be confused with importation and exportation of drugs under Customs and ,Drugs
+77/59,Trafficking of drugs,Possession on a ship of a controlled drug intended for trafficking - Class unspecified,Drugs
+77/60,Trafficking of drugs,Carrying or concealing on a ship a controlled drug intended for trafficking - Class unspecified,Drugs
+77/61,Trafficking of drugs,Operator failing to comply with requirements imposed by Article 3 of Community Regulation ,Drugs
+77/62,Trafficking of drugs,Operator who fails to comply with requirements imposed by regulation 6 - EXPORTS,Drugs
+77/63,Trafficking of drugs,Operator who fails to comply with requirements imposed by regulation 7 - IMPORTS,Drugs
+77/64,Trafficking of drugs,Operator who fails to comply with requirements imposed by Article 6 or 7 of council regulation (EC) No 111/2005 - licensing and registration of operators,Drugs
+77/65,Trafficking of drugs,Possess a drug the subject of a temporary class order on board a ship,Drugs
+77/66,Trafficking of drugs,Possess a controlled drug on board a ship = khat,Drugs
+78/4,,"Non British Citizen, by means including deception, obtains or seeks to obtain leave to enter or remain in the UK or, postponement, avoidance or revocation of enforcement action against him",Other Crime
+78/5,,Person who provides immigration advice or services in contravention of Sec 79 (provision of immigration services) or of restraining order ,Other Crime
+78/6,,Person knowingly or recklessly discloses information obtained under 88(2).,Other Crime
+78/7,,Obtain benefits or advantage for himself or anyone else by making dishonest representations,Other Crime
+78/8,,"Disclosure by certain persons employed at detention centres or in accordance with escort arrangement, of information relating to detained persons",Other Crime
+78/9,,Assisting a detained person to escape,Other Crime
+78/10,,Assisting unlawful immigration to member state,Other Crime
+78/11,,Helping asylum seeker to enter UK,Other Crime
+78/12,,Assisting entry to UK in breach of deportation order,Other Crime
+78/14,,"Registration Card (makes/uses or attempts to use a false registration card; alters or attempts to use, a registration card; makes article designed to be used in making false registration card or altering card)",Other Crime
+78/15,,"Registration Card (has false registration card in possession, has article within para (f) or (g) in possession without reasonable excuse",Other Crime
+78/16,,Possession of Immigration Stamp,Other Crime
+78/17,,Being unable to produce an immigration document at a leave or asylum interview in respect of himself,Other Crime
+78/18,,Being unable to produce an immigration document at a leave or asylum interview in respect of a dependent child,Other Crime
+78/22,,Employing a person subject to immigration control who has attained the age of 16 (was 194/35),Other Crime
+78/23,,Failure to comply with a requirement to take specified action as the Secretary of State required,Other Crime
+78/24,,"Employing a person knowing that they are an adult subject to immigration control who has not been granted leave to enter or remain, or whose leave to remain is invalid etc.",Other Crime
+78/25,,"Wrongful disclosure of information in breach of SS.15(1), 15(2) or 17(1)",Other Crime
+78/26,,Triable-either-way offences,Other Crime
+78/27,,Fail to comply with a Labour Market Enforcement Order,Other Crime
+79/1,,Attempting to Pervert the Course of Public Justice,Other Crime
+79/2,,Control who has not been granted leave ,Other Crime
+79/3,,"to enter or remain, or whose leave to ",Other Crime
+79/4,,remain is invalid etc. ,Other Crime
+79/5,,Harming or threatening to harm a witness,Other Crime
+79/6,,Member of a jury carry out research during the trial period,Other Crime
+79/7,,Member of a jury share research with other jurors.,Other Crime
+79/8,,Member of a jury engage in prohibited conduct.,Other Crime
+79/9,,Intentionally disclose jury's deliberations.,Other Crime
+79/10,,Member of a jury at an inquest research the case during the inquest period.,Other Crime
+79/11,,Member of a jury at inquest share research with another member of the jury during the inquest period.,Other Crime
+79/12,,Member of a jury at an inquest engage in prohibited conduct ,Other Crime
+79/13,,Intentionally disclose jury's deliberations at an inquest.,Other Crime
+80,,Absconding from lawful custody,Other Crime
+80/1,,Participating in prison mutiny with or without failing to submit to lawful authority,Other Crime
+80/2,,Temporarily released prisoner unlawfully at large ,Other Crime
+80/3,,Temporarily released prisoner failed to comply with recall,Other Crime
+81/10,,"Selling etc., firearm to person without a certificate. ",Possession of Weapons
+81/11,,"Repairing, testing etc. firearm for person without a certificate (Group I)",Possession of Weapons
+81/12,,"Repairing, testing etc. firearm for person without a certificate (Group II)",Possession of Weapons
+81/13,,Falsifying certificate etc. with view to acquisition of firearm (Group I),Possession of Weapons
+81/14,,Falsifying certificate etc. with view to acquisition of firearm (Group II),Possession of Weapons
+81/15,,Shortening a shot gun or other smooth bore gun (Group I),Possession of Weapons
+81/16,,Conversion of firearms ,Possession of Weapons
+81/17,,Possessing or distributing prohibited weapons or ammunition ,Possession of Weapons
+81/26,,Carrying loaded firearm or any other firearm (whether loaded or not) together with ammunition suitable for use in that firearm in a public place etc ,Possession of Weapons
+81/27,,Carrying loaded firearm or any other firearm (whether loaded or not) together with ammunition suitable for use in that firearm in a public place etc ,Possession of Weapons
+81/29,,Trespassing with firearm or imitation firearm in a building  ,Possession of Weapons
+81/3,,Possessing etc. firearms or ammunition without firearm certificate     ,Possession of Weapons
+81/30,,Trespassing with firearm or imitation firearm in a building  (Group II),Possession of Weapons
+81/35,,Possession of firearms by persons previously convicted of crime (Group I) ,Possession of Weapons
+81/36,,Possession of firearms by persons previously convicted of crime (Group II) ,Possession of Weapons
+81/37,,Possession of firearms by persons previously convicted of crime (Group III) ,Possession of Weapons
+81/38,,Supplying firearms to person denied them under Section 21 (Group I) ,Possession of Weapons
+81/39,,Supplying firearms to person denied them under Section 21 (Group II) ,Possession of Weapons
+81/4,,Possessing etc. shotgun without certificate ,Possession of Weapons
+81/40,,Supplying firearms to person denied them under Section 21 (Group III) ,Possession of Weapons
+81/42,,Failure to transfer firearms or ammunition in person (Group I),Possession of Weapons
+81/43,,Failure to give notice in writing to the Chief Officer of Police of transfers involving firearms (Group I),Possession of Weapons
+81/44,,"Failure by certificate holder to notify in writing Chief Officer of Police of deactivation, destruction or loss of firearms or ammunition  (Group I)",Possession of Weapons
+81/45,,"Failure by certificate holder to notify in writing Chief Officer of Police of events taking place outside Great Britain involving firearms and ammunition (sold or otherwise disposed of, lost etc). (Group I)",Possession of Weapons
+81/69,,Failing to comply with instructions in firearm certificate upon transfer to person other than registered dealer.,Possession of Weapons
+81/7,,Trading in firearms without being registered as a firearms dealer ,Possession of Weapons
+81/70,,Possessing or distributing prohibited weapons designed for discharge of noxious substances etc,Possession of Weapons
+81/71,,Possessing or distributing firearm designed as other object,Possession of Weapons
+81/72,,Possessing or distributing other prohibited weapons,Possession of Weapons
+81/73,,Offence in relation to the unlawful importation of any weapon or ammunition of a kind mentioned in S 5(1)(a)(ab)(aba)(ac)(ad)(ae)(af) or c of Firearms Act 1968   ,Possession of Weapons
+81/74,,Offence in relation to the unlawful exportation of any weapon or ammunition of a kind mentioned in S 5(1)(a)(ab)(aba)(ac)(ad)(ae)(af) or c of Firearms Act 1968   ,Possession of Weapons
+81/76,,Sell/transfer an air weapon unlawfully ,Possession of Weapons
+81/77,,Carrying a loaded or unloaded or imitation firearm or air weapon in public place.,Possession of Weapons
+81/78,,"Knowingly being concerned in activity prohibited by parts 2, 3, or 4 of the Order with intent to evade the relevant prohibition",Possession of Weapons
+81/79,,Unship / unload prohibited weapon / ammunition with intent to evade prohibition / restriction,Possession of Weapons
+81/80,,Remove prohibited weapons / ammunition from their place of importation with intent to evade prohibition / restriction,Possession of Weapons
+81/81,,Import prohibited weapons / ammunition with intent to evade a prohibition / restriction,Possession of Weapons
+81/82,,Export prohibited weapon / ammunition with intent to evade prohibition / restriction,Possession of Weapons
+81/83,,Carry / remove / deposit etc. prohibited weapons / ammunition with intent to evade a prohibition / restriction,Possession of Weapons
+81/84,,Knowingly concerned in fraudulent evasion of prohibition / restriction on prohibited weapon / ammunition,Possession of Weapons
+81/85,,Manufacture weapon / ammunition specified in section 5(1) of the Firearms Act 1968,Possession of Weapons
+81/86,,Sell / transfer prohibited weapon / ammunition,Possession of Weapons
+81/87,,Possess prohibited weapon / ammunition for sale / transfer,Possession of Weapons
+81/88,,Purchase / acquire prohibited weapon / ammunition for sale / transfer,Possession of Weapons
+81/89,,Triable-either-way offences,Possession of Weapons
+81/90,,Possession of articles for conversion of imitation firearms,Possession of Weapons
+81/91,,Controls on defectively deactivated weapons,Possession of Weapons
+81/8,,Trading in firearms without being registered as a firearms dealer ,Possession of Weapons
+81/9,,"Selling etc., firearm to person without a certificate. ",Possession of Weapons
+82/2,,VAT Offences,Other Crime
+82/2,,Car Tax Act offences,Other Crime
+82/2,,Unlawful use of duty-free oil,Other Crime
+82/2,,Misuse of rebated heavy oil,Other Crime
+82/2,,Misuse of rebated light oil,Other Crime
+82/2,,Other triable-either-way offences ,Other Crime
+82/2,,Untrue declarations etc to Customs & Excise,Other Crime
+82/2,,Fraudulent evasion of tax & stamp duty land tax,Other Crime
+82/2,,Fraudulent evasion of income tax,Other Crime
+82/3,,"Fraudulent evasion of duty, an offence in connection with a prohibition or restriction on the importation or exportation of any weapon or ammunition etc",Other Crime
+82/4,,Disclosing and information held in the exercise of tax or other function by authorised person,Other Crime
+82/5,,Triable-either-way offences,Other Crime
+82/6,,Relevant body fail to prevent facilitation of UK / foreign tax evasion offence,Other Crime
+83/2,,Agreeing to indemnify sureties in criminal proceedings,Other Crime
+83/3,,Acknowledging bail in false name,Other Crime
+83/4,,Disclose information acquired in employment at directly managed secure college relating to detainee,Other Crime
+83/5,,Remain unlawfully at large after recall to prison (life prisoners),Other Crime
+83/6,,Remain unlawfully at large after recall to prison,Other Crime
+83/7,,Disclose information acquired in employment at contracted out secure college relating to detainee,Other Crime
+83/8,,Offence of breach of pre-charge bail conditions relating to travel,Other Crime
+84/10,,Triable-either-way offences,Other Crime
+84/12,,Infringe copyright to a work by communicating work to public,Other Crime
+84/13,,Infringe a performers making available right in the course of business/otherwise,Other Crime
+84/14,,Knowingly / recklessly engage in commercial practice contravening reg 3(3)(a) distorting behaviour of average consumer,Other Crime
+84/15,,Engage in commercial practice which is a misleading action under reg 5,Other Crime
+84/16,,Engage in commercial practice which is a misleading omission under reg 6,Other Crime
+84/17,,Engage in commercial practice which is aggressive under reg 7,Other Crime
+84/18,,"Engage in commercial practice set out in paras 1 to 10, 12 to 27 and 29 to 31 of Sch 1",Other Crime
+84/19,,Make a false statement in providing information under para 23(1) (c ),Other Crime
+84/20,,Falsification of Register etc,Other Crime
+84/21,,Triable-either-way offences,Other Crime
+84/5,,"Price regulation, price marking and price range notices.  Restriction on disclosure of information",Other Crime
+84/6,,"Furnishing false information in response to notice, or to enforcement officer",Other Crime
+84/8,,Offences triable either way.  Unauthorised use of Trade Mark etc. in relation to goods. ,Other Crime
+84/9,,"Offences triable either way.  Makes for sale or hire, imports, possesses or distributes articles which infringes the copyright.  Makes, imports or distributes illicit recordings",Other Crime
+85/1,,Neglect of safety at work,Other Crime
+85/1,,"Failure to discharge a duty imposed (on employers and others) by virtue of S2,3,4 or 6",Other Crime
+85/1,,Failure to discharge a duty imposed (on employees) by S7.,Other Crime
+85/1,,"Failure to discharge the duty not to interfere with or misuse things provided for health and safety, imposed by S8.",Other Crime
+85/1,,Failure to discharge the duty not to charge employees for things done to meet requirements of relevant statutory provisions imposed by S9.,Other Crime
+85/1,,Designer/manufacturer/importer/ supplier of fairground equipment fail to ensure revision to safety information provided,Other Crime
+85/2,,Contravene improvement or prohibition notice. ,Other Crime
+85/2,,Contravene requirement of inspector under Section 20 or  under 25,Other Crime
+85/2,,"Preventing another person from appearing before an inspector, or from answering an inspector's question",Other Crime
+85/3,,Offences relating to information notices,Other Crime
+85/4,,"False statements, false entries in records and forgery",Other Crime
+85/4,,Offences relating to deception,Other Crime
+85/5,,Offences under health and safety regulations or other Acts with penalty under Section 33(3). Health and Safety at Work etc Act 1974,Other Crime
+85/5,,Contravene order under Section 42,Other Crime
+85/5,,Offences relating to the transport of dangerous substances by road and rail,Other Crime
+85/5,,"Contravening requirements of health and safety regulations, licences or authorisations",Other Crime
+85/5,,"Failure to comply with a court re,medy order (sec 42)",Other Crime
+85/5,,An offence under the existing statutory provisions for which no other penalty is specified,Other Crime
+85/6,,Triable-either-way offences,Other Crime
+85/7,,Triable-either-way offences,Other Crime
+85/8,,Contravening a requirement or prohibition imposed by an improvement or prohibitive notice,Other Crime
+85/9,,"Contravening requirements of asbestos related health and safety regulations, licences or authorisations",Other Crime
+85/10,,Triable-either-way offences,Other Crime
+86/1,,Possessing obscene material for gain,Other Crime
+86/2,,"Take/ make / distribute indecent photographs or pseudo- photographs, of children",Other Crime
+86/3,,Indecent matter publicly displayed,Other Crime
+86/4,,Supplying video recording of unclassified work.,Other Crime
+86/5,,Possess video recording of unclassified work for the purpose of supply,Other Crime
+86/6,,"Defendant has protected material, or copy of it, in possession otherwise than while inspecting it etc",Other Crime
+86/7,,"Defendant gives, or reveals, protected material, or copy of it, to any other person",Other Crime
+86/8,,"Person who has been given, or shown protected material, gives a copy or otherwise to any person other than the defendant",Other Crime
+86/9,,"Person who has been given, or shown, protected material, gives a copy or otherwise to the defendant when not supposed to",Other Crime
+86/10,,Possession of an indecent or pseudo indecent photo of a child,Other Crime
+86/11,,Possession of extreme pornographic images - an act which threatens a person's life,Other Crime
+86/12,,"Possession of extreme pornographic images - an act which results, or is likely to result, in serious injury to a person's anus, breasts or genitals.",Other Crime
+86/13,,Possession of extreme pornographic images - an act which involves sexual interference with a human corpse (necrophilia),Other Crime
+86/14,,Possession of extreme pornographic image - a person performing an act of intercourse or oral sex with an animal (whether dead or alive) (bestiality) ,Other Crime
+86/15,,Possessing prohibited images of children,Other Crime
+86/16,,Possess an extreme image portraying rape,Other Crime
+86/17,,Possess an extreme image portraying sexual assault by penetration,Other Crime
+87/1,,Unlawful eviction of Occupier,Other Crime
+87/2,,Unlawful harassment of Occupier,Other Crime
+87/3,,Protection of occupiers against eviction and harassment,Other Crime
+88/1,Other sexual offences ,Meeting a female child following sexual grooming etc. - offender 18 or over and victim under 16,Violence and Sexual Offences
+88/10,Other sexual offences ,Voyeurism,Violence and Sexual Offences
+88/11,Other sexual offences ,Sexual penetration of a corpse,Violence and Sexual Offences
+88/2,Other sexual offences ,Meeting a male child following sexual grooming etc (Offender aged over 18 & victim aged under 16),Violence and Sexual Offences
+88/3,Other sexual offences ,Intercourse with an animal by a male,Violence and Sexual Offences
+88/4,Other sexual offences ,Intercourse with an animal by a female,Violence and Sexual Offences
+88/5,Other sexual offences ,Administering a substance with intent,Violence and Sexual Offences
+88/6,Other sexual offences ,Committing an offence with intent to commit a sexual offence,Violence and Sexual Offences
+88/7,Other sexual offences ,Trespass with intent to commit a sexual offence,Violence and Sexual Offences
+88/9,Other sexual offences ,Exposure,Violence and Sexual Offences
+89/1,,General protection of the public against injurious food and drug products,Other Crime
+89/4,,Rendering food injurious to health,Other Crime
+89/5,,Selling food not complying with food safety requirements,Other Crime
+89/6,,Selling food not of the nature or substance or quality demanded,Other Crime
+89/7,,Falsely describing or presenting food,Other Crime
+89/8,,Obstruction etc. of officers; furnishing false information,Other Crime
+89/9,,Contravening or failing to comply with specified Community provision referred to in Part I of the schedule,Other Crime
+89/10,,Contravening or failing to comply with specified Community provision referred to in Part II of the schedule,Other Crime
+89/12,,Triable-either-way offences,Other Crime
+89/13,,Triable-either-way offences,Other Crime
+90/1,,"Unlawful marketing of knives, selling or hiring",Possession of Weapons
+90/2,,Unlawful marketing of knives. Offers or exposes to sell or hire,Possession of Weapons
+90/3,,Unlawful marketing of knives- has in possession for purpose of sale or hire,Possession of Weapons
+90/4,,"Publication of any written, pictorial or other material in connection with the marketing of any knife -the material suggesting/indicating knife suitable for combat",Possession of Weapons
+90/5,,"Publication of any written, pictorial or other material in connection with the marketing of any knife - the material is otherwise likely to stimulate/encourage violent behaviour involving use of the knife as a weapon",Possession of Weapons
+91/1,,Public health Offences as related to food and drugs,Other Crime
+91/7,,Carrying on a process without authority or not complying with conditions of granted authority,Other Crime
+91/8,,"Transfer of authorisation, failing to notify authority",Other Crime
+91/9,,Failing to comply with or contravening any enforcement or prohibition notice,Other Crime
+91/10,,Failing without reasonable excuse to provide any information required by an authority in a notice under Sec 19(2),Other Crime
+91/11,,Making a statement known to be materially false or misleading or recklessly making a statement which is materially false or misleading in compliance with a requirement under Part I of The Act or in order to obtain authorisation or variation of authorisation for oneself or any other person,Other Crime
+91/12,,Intentionally making a false entry in any record required under Sec 7,Other Crime
+91/13,,Intentionally deceiving by forgery or using a document issued under Sec 7,Other Crime
+91/14,,Failing to comply with an order issued under Sec 26,Other Crime
+91/15,,"Depositing, causing the deposition or permitting the deposition treating, keeping or disposing of controlled (but not special) waste in or on land without a licence",Other Crime
+91/16,,"Depositing, causing the deposition or permitting the deposition of controlled special waste in or on land without a licence",Other Crime
+91/17,,Failure to take such measures as available to secure transfer of household waste to unauthorised person or persons authorised for transport purposes,Other Crime
+91/18,,"Licence-holder failing to comply with requirements of Waste Regulating Authority, otherwise than in relation to special waste, when suspending a licence to deal with or avert pollution or harm",Other Crime
+91/19,,"Licence-holder failing to comply with requirements of Waste Regulating  Authority, in relation to special waste, when suspending a licence to deal with or avert pollution or harm",Other Crime
+91/2,,Hygiene offences in connection with sale etc of food to the public ,Other Crime
+91/20,,Making a false statement in an application concerning a licence,Other Crime
+91/21,,Contravening regulations made under sec 62 controlling special waste,Other Crime
+91/25,,"Importing, acquiring, keeping releasing or marketing any genetically modified organisms without carrying out a risk assessment and giving prescribed notice and information to the Secretary of State",Other Crime
+91/26,,"Importing or acquiring, releasing or marketing any genetically modified organisms in certain cases or circumstances or without consent. Failing to dispose of organisms quickly and safely when required",Other Crime
+91/27,,"Failing to identify risks of importing or acquiring genetically modified organisms, importing or acquiring modified organisms despite the risks, not taking all reasonable steps to prevent risk of damage to the environment as a result of keeping modified organisms. Releasing or marketing modified organisms without regard to the risks of damage to the environment",Other Crime
+91/28,,Failing to keep a record of a risk assessment or failing to give the  Secretary of State further information,Other Crime
+91/29,,Contravening a prohibition notice,Other Crime
+91/30,,Obstructing an inspector where he believes imminent danger is involved,Other Crime
+91/31,,Failing to comply with any requirement to provide relevant information,Other Crime
+91/32,,Making a false statement,Other Crime
+91/33,,Making a false entry in any required record,Other Crime
+91/34,,"Forging, using, making or processing a document purporting to have been issued under Sec 111",Other Crime
+91/35,,"Contravening regulations made to control the import, use, supply and storage of any specified injurious substance or article",Other Crime
+91/36,,Contravening regulations made to prohibit or restrict the import or export of waste,Other Crime
+91/37,,Contravening conditions of a waste management licence,Other Crime
+91/38,,"Obstructing an inspector exercising his powers to seize, render harmless or take samples from an article or substance believed  to be a cause of imminent danger to the environment or serious harm to human health",Other Crime
+91/39,,Failing without reasonable excuse to provide any information required by a waste regulation authority or the Secretary of State,Other Crime
+91/40,,Fail to comply with a notice or fail to furnish information or furnish false information,Other Crime
+91/41,,Obstructing an authorised person in the execution of his powers under Sec 109,Other Crime
+91/42,,Failure to comply with Regulations,Other Crime
+91/43,,Restrictions on disclosure of information obtained under Sec 23,Other Crime
+91/44,,"Publishes, or causes to be published, a tobacco advertisement",Other Crime
+91/45,,"Prints, devises or distributes in UK a tobacco advertisement",Other Crime
+91/46,,"Any person who, from commissioning to selling a tobacco advertisement in newspaper, periodicals etc, commits an offence",Other Crime
+91/47,,It is an offence to display tobacco products if display does not comply with any requirements as may be specified in Regulations made under this section,Other Crime
+91/48,,"Gives, or causes or permits, any product or coupon away to the public in the UK which promotes a tobacco product",Other Crime
+91/49,,Prohibition of any sponsorship promoting a tobacco product,Other Crime
+91/50,,Prohibition of brandsharing/brandstretching - Regulations made under this section,Other Crime
+91/51,,Pollution of controlled water,Other Crime
+91/52,,Contravention of Regulations,Other Crime
+91/53,,Contravention of Regulations,Other Crime
+91/54,,Triable-either-way offences,Other Crime
+91/55,,Offences made under these Regulations,Other Crime
+91/56,,Prohibition of activities without consent etc,Other Crime
+91/57,,Prohibition of activities without consent etc,Other Crime
+91/58,,Prohibition of activities without consent etc,Other Crime
+91/59,,Prohibition of commercial dealings in human material for transplantation,Other Crime
+91/60,,Breach of licence requirement,Other Crime
+91/61,,Possession of anatomical specimens away from licensed premises,Other Crime
+91/62,,Possession of former anatomical specimens away from licensed premises,Other Crime
+91/63,,Non-consensual analysis of DNA,Other Crime
+91/64,,Placing on market or using nonyphenol or nonyphenol ethoxylate,Other Crime
+91/65,,Offences relating to the sale and supply of starting materials for use in the manufacture of relevant medicinal products,Other Crime
+91/66,,Triable-either-way offences,Other Crime
+91/67,,Triable-either-way offences,Other Crime
+91/68,,Use/store donated material not for qualifying purpose,Other Crime
+91/69,,All offences made under these regulations.,Other Crime
+91/70,,Triable-either-way offences,Other Crime
+91/71,,Triable-either-way offences,Other Crime
+91/73,,Breach regulations,Other Crime
+91/76,,Triable-either-way offences,Other Crime
+91/77,,Triable-either-way offences,Other Crime
+91/78,,Restriction on the placing on the market or use of dangerous substances and preparations,Other Crime
+91/79,,Service provider doing an act abroad which would be an offence if done in UK,Other Crime
+91/80,,Proprietor or editor of information society service publishing tobacco advertisement,Other Crime
+91/81,,Procuring inclusion of tobacco advertisement in information society service,Other Crime
+91/82,,Triable-either-way offences,Other Crime
+91/83,,Triable-either-way offences,Other Crime
+91/84,,Triable-either-way offences,Other Crime
+91/85,,Triable-either-way offences,Other Crime
+91/86,,Triable-either-way offences,Other Crime
+91/87,,Fail to comply with stop notice issued under Environmental Protection (England) (Microbeads) regs 2017,Other Crime
+92/1,Trafficking of drugs,Unlawful importation of a drug controlled under the Misuse of Drugs Act 1971 - Unknown class,Drugs
+92/2,Trafficking of drugs,Unlawful exportation of a drug controlled under the Misuse of Drugs Act 1971- Class unspecified,Drugs
+92/3,Trafficking of drugs,Unlawful importation of a drug controlled under the Misuse of Drugs Act 1971 - Class A,Drugs
+92/4,Trafficking of drugs,Unlawful importation of a drug controlled under the Misuse of Drugs Act 1971 - Class B,Drugs
+92/5,Trafficking of drugs,Offence in relation to the unlawful IMPORTATION of a drug controlled under the Misuse of Drugs Act 1971 CLASS C,Drugs
+92/6,Trafficking of drugs,Unlawful exportation of a drug controlled under the Misuse of Drugs Act 1971- Class A,Drugs
+92/7,Trafficking of drugs,Unlawful exportation of a drug controlled under the Misuse of Drugs Act 1971- Class B,Drugs
+92/8,Trafficking of drugs,Offence in relation to the unlawful EXPORTATION of a drug controlled under the Misuse of Drugs Act 1971 CLASS C,Drugs
+92/10,Trafficking of drugs,Production or being concerned in production of a controlled drug - Cocaine  ,Drugs
+92/11,Trafficking of drugs,Production or being concerned in production of a controlled drug - Heroin ,Drugs
+92/12,Trafficking of drugs,Production or being concerned in production of a controlled drug -  LSD,Drugs
+92/13,Trafficking of drugs,Production or being concerned in production of a controlled drug -  MDMA,Drugs
+92/14,Trafficking of drugs,Production or being concerned in production of a controlled drug -  Crack,Drugs
+92/15,Trafficking of drugs,Production or being concerned in production of a controlled drug - Methadone ,Drugs
+92/16,Trafficking of drugs,Concerned in the fraudulent evasion of a prohibition on the importation of a controlled drug - khat ,Drugs
+92/17,Trafficking of drugs,Offence in relation to the unlawful importation of a drug controlled under the Misuse of Drugs Act 1971 - Khat,Drugs
+92/18,Trafficking of drugs,Offence in relation to the unlawful exportation of a drug controlled under the Misuse of Drugs Act 1971 -Khat ,Drugs
+92/19,Trafficking of drugs,Production or being concerned in production of a controlled drug -  Class A - Other,Drugs
+92/20,Trafficking of drugs,Production or being concerned in production of a controlled drug -  Amphetamine,Drugs
+92/21,Trafficking of drugs,Production of a cannabis plant,Drugs
+92/22,Trafficking of drugs,Synthetic cannabinoid receptor agonists,Drugs
+92/23,Trafficking of drugs,Production or being concerned in production of a controlled drug - Class B - Mephedrone including cathinone derivatives,Drugs
+92/25,Trafficking of drugs,Production or being concerned in production of a controlled drug - Class B - Other ,Drugs
+92/27,Trafficking of drugs,Production or being concerned in production of a controlled drug -  Anabolic steroids,Drugs
+92/28,Trafficking of drugs,Production or being concerned in production of a controlled drug - Class C - Other ,Drugs
+92/29,Trafficking of drugs,Production or being concerned in production of a controlled drug -  Unspecified,Drugs
+92/30,Trafficking of drugs,Supplying or offering to supply a controlled drug - Cocaine,Drugs
+92/31,Trafficking of drugs,Supplying or offering to supply a controlled drug - Heroin,Drugs
+92/32,Trafficking of drugs,Supplying or offering to supply a controlled drug - LSD,Drugs
+92/33,Trafficking of drugs,Supplying or offering to supply a controlled drug - MDMA,Drugs
+92/34,Trafficking of drugs,Supplying or offering to supply a controlled drug - Crack,Drugs
+92/35,Trafficking of drugs,Supplying or offering to supply a controlled drug - Methadone,Drugs
+92/37,Trafficking of drugs,Import a drug subject of a temporary class order with intent to evade a prohibition/restriction,Drugs
+92/38,Trafficking of drugs,Export a drug subject of a temporary class order with intent to evade a prohibition / restriction ,Drugs
+92/39,Trafficking of drugs,Supplying or offering to supply a controlled drug - Class A Other,Drugs
+92/40,Trafficking of drugs,Supplying or offering to supply a controlled drug - Amphetamine,Drugs
+92/41,Trafficking of drugs,Supplying or offering to supply a controlled drug - Class B Cannabis and cannabis resin  ,Drugs
+92/42,Trafficking of drugs,Synthetic cannabinoid receptor agonists,Drugs
+92/43,Trafficking of drugs,Supplying or offering to supply a controlled drug - Class B - Mephedrone including cathinone derivatives ,Drugs
+92/45,Trafficking of drugs,Supplying or offering to supply a controlled drug - Class B - Other,Drugs
+92/47,Trafficking of drugs,Supplying or offering to supply a controlled drug - Anabolic steroids,Drugs
+92/48,Trafficking of drugs,Supplying or offering to supply a controlled drug - Class C - Other,Drugs
+92/49,Trafficking of drugs,Supplying or offering to supply a controlled drug - Class unspecified,Drugs
+92/50,Possession of drugs,Having possession of a controlled drug - Cocaine,Drugs
+92/51,Possession of drugs,Having possession of a controlled drug - Heroin,Drugs
+92/52,Possession of drugs,Having possession of a controlled drug - LSD,Drugs
+92/53,Possession of drugs,Having possession of a controlled drug - MDMA,Drugs
+92/54,Possession of drugs,Having possession of a controlled drug - Crack,Drugs
+92/55,Possession of drugs,Having possession of a controlled drug - Methadone,Drugs
+92/59,Possession of drugs,Having possession of a controlled drug - Class A - Other,Drugs
+92/60,Possession of drugs,Having possession of a controlled drug - Amphetamine,Drugs
+92/61,Possession of drugs,Having possession of a controlled drug - cannabis,Drugs
+92/62,Possession of drugs,Synthetic cannabinoid agonists,Drugs
+92/63,Trafficking of drugs,Possession of a controlled drug - Class B - Mephedrone including cathinone derivatives ,Drugs
+92/65,Possession of drugs,Having possession of a controlled drug - Class B - Other,Drugs
+92/67,Possession of drugs,"Having possession of a controlled drug - Anabolic steroids. Possession is not an offence unless you wish to export or import the steroid without a license.  It is also an offence if they are counterfeit.
+",Drugs
+92/68,Possession of drugs,Having possession of a controlled drug - Class C- Other,Drugs
+92/69,Possession of drugs,Having possession of a controlled drug - Class unspecified,Drugs
+92/70,Trafficking of drugs,Possession of a controlled drug with intent to supply - Cocaine,Drugs
+92/71,Trafficking of drugs,Possession of a controlled drug with intent to supply - Heroin,Drugs
+92/72,Trafficking of drugs,Possession of a controlled drug with intent to supply - LSD,Drugs
+92/73,Trafficking of drugs,Possession of a controlled drug with intent to supply - MDMA,Drugs
+92/74,Trafficking of drugs,Possession of a controlled drug with intent to supply - Crack,Drugs
+92/75,Trafficking of drugs,Possession of a controlled drug with intent to supply - Methadone,Drugs
+92/79,Trafficking of drugs,Possession of a controlled drug with intent to supply - Class A - Other,Drugs
+92/80,Trafficking of drugs,Possession of a controlled drug with intent to supply - Amphetamine,Drugs
+92/81,Trafficking of drugs,Possession of a controlled drug with intent to supply - cannabis,Drugs
+92/82,Trafficking of drugs,Synthetic cannaboid agonists,Drugs
+92/83,Trafficking of drugs,Possession of a controlled drug with intent to supply - Class B - Mephedrone including  cathinone derivatives ,Drugs
+92/85,Trafficking of drugs,Possession of a controlled drug with intent to supply - Class B - Other,Drugs
+92/87,Trafficking of drugs,Possession of a controlled drug with intent to supply - Anabolic steroids,Drugs
+92/88,Trafficking of drugs,Possession of a controlled drug with intent to supply - Class C - Other,Drugs
+92/89,Trafficking of drugs,Possession of a controlled drug with intent to supply - Class unspecified,Drugs
+92/90,Trafficking of drugs,Possession of a controlled drug with intent to supply a class A or B or C controlled drug.,Drugs
+92/91,Trafficking of drugs,Possession of a controlled drug with intent to supply a class A or B or C controlled drug.,Drugs
+92/92,Trafficking of drugs,Possession of a controlled drug with intent to supply a class A or B or C controlled drug.,Drugs
+92/93,Trafficking of drugs,Incite another to supply a controlled drug ,Drugs
+93/10,Possession of drugs,Permitting premises to be used for unlawful purposes - Cocaine,Drugs
+93/11,Possession of drugs,Permitting premises to be used for unlawful purposes - Heroin,Drugs
+93/12,Possession of drugs,Permitting premises to be used for unlawful purposes - LSD,Drugs
+93/13,Possession of drugs,Permitting premises to be used for unlawful purposes - MDMA,Drugs
+93/14,Possession of drugs,Permitting premises to be used for unlawful purposes - Crack,Drugs
+93/15,Possession of drugs,Permitting premises to be used for unlawful purposes - Methadone,Drugs
+93/19,Possession of drugs,Permitting premises to be used for unlawful purposes - Class A - Other,Drugs
+93/20,Possession of drugs,Permitting premises to be used for unlawful purposes - Amphetamine,Drugs
+93/21,Possession of drugs,Permitting premises to be used for unlawful purposes - Cannabis,Drugs
+93/22,Possession of drugs,Synthetic cannaboid agonists,Drugs
+93/23,Possession of drugs,Permitting premises to be used for unlawful purposes - Class B - Mephedrone including  cathinone derivatives ,Drugs
+93/25,Possession of drugs,Permitting premises to be used for unlawful purposes - Class B - Other,Drugs
+93/27,Possession of drugs,Permitting premises to be used for unlawful purposes - Anabolic steroids,Drugs
+93/28,Possession of drugs,Permitting premises to be used for unlawful purposes - Class C - Other,Drugs
+93/29,Possession of drugs,Permitting premises to be used for unlawful purposes - Class unspecified,Drugs
+93/30,Possession of drugs,Obstructing powers of search etc. or concealing drugs etc,Drugs
+93/40,Possession of drugs,Offences relating to opium,Drugs
+93/40,Possession of drugs,Contravention of directions relating to safe custody of controlled drugs,Drugs
+93/40,Possession of drugs,"Contravention of directions prohibiting, prescribing, possessing, supply etc. of controlled drugs by practitioners or pharmacists-",Drugs
+93/40,Possession of drugs,"Doctors or pharmacists providing false information about the prescriptions, supply etc. of drugs ",Drugs
+93/40,Possession of drugs,Offences against Misuse of Drugs Regulations etc,Drugs
+93/40,Possession of drugs,Assisting in or inducing commission of drug offence outside United Kingdom,Drugs
+93/41,Possession of drugs,Produce a psychoactive substance,Drugs
+93/42,Possession of drugs,Supply a psychoactive substance,Drugs
+93/43,Possession of drugs,Offer to supply a psychoactive substance,Drugs
+93/44,Possession of drugs,Possess a psychoactive substance with intent to supply,Drugs
+93/45,Possession of drugs,Import a psychoactive substance,Drugs
+93/46,Possession of drugs,Export a psychoactive substance,Drugs
+93/47,Possession of drugs,Possess a psychoactive substance in a custodial institution,Drugs
+93/48,Possession of drugs,Fail to comply with a prohibition / premises order re psychoactive substances,Drugs
+93/55,Trafficking of drugs,Production or being concerned in production of a controlled drug -  Crystal Meths,Drugs
+93/57,Trafficking of drugs,Piperazines (including BZP),Drugs
+93/58,Trafficking of drugs,"Gamma-butyrolactone (GBL) and 1,4-butanediol (1,4-BD)",Drugs
+93/59,Trafficking of drugs,Production or being concerned in production of a controlled drug -  GHB,Drugs
+93/60,Trafficking of drugs,Production or being concerned in production of a controlled drug -  Ketamine,Drugs
+93/61,Trafficking of drugs,Supplying or offering to supply a controlled drug - Crystal Meths,Drugs
+93/62,Trafficking of drugs,Production of or being concerned in production of a controlled drug - khat,Drugs
+93/63,Trafficking of drugs,"Gamma-butyrolactone (GBL) and 1,4-butanediol (1,4-BD)",Drugs
+93/64,Trafficking of drugs,Piperazines (including BZP),Drugs
+93/65,Trafficking of drugs,Supplying or offering to supply a controlled drug - GHB,Drugs
+93/66,Trafficking of drugs,Supplying or offering to supply a controlled drug - Ketamine,Drugs
+93/67,Possession of drugs,Having possession of a controlled drug - Crystal Meths,Drugs
+93/68,Trafficking of drugs,Supplying or offering to supply or being concerned in supplying a controlled drug - khat,Drugs
+93/69,Possession of drugs,"Gamma-butyrolactone (GBL) and 1,4-butanediol (1,4-BD)",Drugs
+93/70,Possession of drugs,Piperazines (including BZP),Drugs
+93/71,Possession of drugs,Having possession of a controlled drug - GHB,Drugs
+93/72,Possession of drugs,Ketamine (Special K or Club 'horse' drug),Drugs
+93/73,Trafficking of drugs,Possession of a controlled drug with intent to supply - Crystal Meths,Drugs
+93/74,Possession of drugs,Possession of a controlled drug - khat,Drugs
+93/75,Trafficking of drugs,"Gamma-butyrolactone (GBL) and 1,4-butanediol (1,4-BD)",Drugs
+93/76,Trafficking of drugs,Piperazines (including BZP),Drugs
+93/77,Trafficking of drugs,Possession of a controlled drug with intent to supply - GHB,Drugs
+93/78,Trafficking of drugs,Possession of a controlled drug with intent to supply - Ketamine,Drugs
+93/79,Possession of drugs,Permitting premises to be used for unlawful purposes - Crystal Meths,Drugs
+93/80,Trafficking of drugs,Possession of a controlled drug with intent to supply - khat,Drugs
+93/81,Possession of drugs,"Gamma-butyrolactone (GBL) and 1,4-butanediol (1,4-BD)",Drugs
+93/82,Possession of drugs,Piperazines (including BZP),Drugs
+93/83,Possession of drugs,Permitting premises to be used for unlawful purposes - GHB,Drugs
+93/84,Possession of drugs,Permitting premises to be used for unlawful purposes - Ketamine,Drugs
+93/85,Trafficking of drugs,Produce or being concerned in the production of a drug subject of a temporary class drug order,Drugs
+93/86,Trafficking of drugs,Supply or being concerned in the supply of a drug subject of a temporary class drug order ,Drugs
+93/87,Trafficking of drugs,Permit the use of premises for the supply or production of a drug subject of a temporary class drug order,Drugs
+93/88,Trafficking of drugs,Possessing with intent to supply a drug subject of a temporary class drug order,Drugs
+93/89,Trafficking of drugs,"Obstructing a PC in exercise of a S23A (6) power to detain or search a person, vehicle or vessel regarding a drug the subject of a temporary class drug order",Drugs
+93/90,Possession of drugs,Permitting premises to be used for unlawful purposes - khat,Drugs
+94/1,,Non compliance with enforcement notice,Other Crime
+94/2,,Contravention of stop notice,Other Crime
+94/3,,Contravention of discontinuance of use etc. order,Other Crime
+94/4,,Procuring a certificate using false or misleading information or withholding information,Other Crime
+94/5,,Discloses information obtained while on land as to manufacturing process or trade secrets,Other Crime
+94/6,,Contravening tree preservation order,Other Crime
+94/7,,Triable-either-way offences,Other Crime
+94/8,,Failure to comply with conditions of Listed Building consent,Other Crime
+94/9,,Failure to comply with Listed Building enforcement notice.,Other Crime
+94/10,,Contravention of hazardous substances control,Other Crime
+94/11,,Offences relating to the contravention of a temporary stop order,Other Crime
+94/12,,Enter aircraft when drunk / be drink in aircraft,Other Crime
+94/13,,Act as crew of aircraft when under influence of drink / drug impairing capacity,Other Crime
+94/14,,Intentionally interfere with performance of aircraft crew member's duty,Other Crime
+94/15,,Recklessly / negligently act in manner likely to endanger aircraft / person in an aircraft,Other Crime
+94/16,,Triable-either-way offences,Other Crime
+95/1,,Person discloses any information in contravention of direction made under Section 18,Other Crime
+95/2,,Obstruction of an officer in the exercise of a power conferred by a warrant etc,Other Crime
+95/3,,Knowingly makes false or misleading statements for purpose of obtaining or opposing the variation or withdrawal of authorisation for the purposes of Section 47 and 50,Other Crime
+95/4,,Occupier fails to comply with any duty or direction imposed on him by or under Part 7; person knowingly or recklessly makes a statement which is false or misleading,Other Crime
+95/5,,Failure to comply with prohibition imposed by order; engages in an activity knowing or intending that it will enable or facilitate the commission by another person of an offence under para 2 sch 3,Other Crime
+95/6,,"Offences of prejudicing an investigation disclosures likely to prejudice investigation; Falsifies, conceals, destroys or otherwise disposes of etc. documents relevant to investigation",Other Crime
+95/7,,"If in purported compliance with requirement imposed under a disclosure order, makes or recklessly makes a false or misleading statement",Other Crime
+95/8,,"Disclosure, Obstruction, False or misleading statements etc.",Other Crime
+95/9,,"Disclosure, Obstruction, False or misleading statements, alters, suppresses or destroys documents",Other Crime
+95/10,,"Falsifies, conceals, destroys, or otherwise disposes of etc. documents he knows or suspects are relevant to investigation by Serious Fraud Office or OFT into offence S. 183",Other Crime
+95/11,,Disclosure of information,Other Crime
+95/12,,Financial institution fails to comply with the requirement imposed under customer information order,Other Crime
+95/13,,Makes false statements to authorised officer,Other Crime
+95/14,,Failure to comply with directive under Sch 3A etc,Other Crime
+95/15,,Failure to comply with a direction given by Chief Inspector of Rail Accounts,Other Crime
+95/16,,Failure to give assistance/information to technical assessors,Other Crime
+95/17,,Financial institution: makes a statement which he knows to be false or misleading in purported compliance with a customer information order,Other Crime
+95/18,,Financial institution: discloses types of information specified in Sec 42(3) to customers,Other Crime
+95/19,,Employee of institution discloses types of information specified in Sec 42(3),Other Crime
+95/20,,Person obstructing the Information Commissioner in the course of his duty etc,Other Crime
+95/21,,Misleading applications for licences,Other Crime
+95/22,,Failure to comply with licence conditions,Other Crime
+95/23,,Makes false or misleading statement in purported compliance with any requirement imposed under sections 62 (disclosure notices) or 63 (production of documents),Other Crime
+95/24,,Disclosing information about protection arrangements,Other Crime
+95/25,,Disclosing information relating to persons assuming new identity,Other Crime
+95/26,,Failing to provide information or making false statement relating to ship or harbour area,Other Crime
+95/27,,Falsification of documents,Other Crime
+95/28,,Make/recklessly make a statement or furnish document/information which is false in material particular,Other Crime
+95/31,,False statements etc with reference to civil partnership,Other Crime
+95/32,,"Obstruct, conceal or fail to produce records for persons acting under S20 (1).  Make false /misleading statement in purported compliance with a S47 requirement to produce documents.",Other Crime
+95/33,,Knowingly make false/misleading statement in purported compliance with S.198. ,Other Crime
+95/34,,Fail to comply with a S.201 or S.202 requirement to disclose information.  ,Other Crime
+95/35,,"Fail to comply with S50 (2) (5) or ""51 (2)",Other Crime
+95/36,,Disclose information in connection with the Education Act 2005.,Other Crime
+95/37,,Intentionally alter/suppress/destroy document required to produce under S.235 notice. ,Other Crime
+95/38,,Without consent of Commissioner of HM Revenue & Customs made unauthorised paragraph 1 disclosure.,Other Crime
+95/39,,Make a false statement in an application for registration of document for lasting power of attorney or re actual/impending incapacity of donor,Other Crime
+95/40,,Assault/obstruct enforcement officer acting under S.89/90 or fail/refuse to comply with S.89(4e-f) requirement. ,Other Crime
+95/41,,Disclosing information relating to identity of persons which is specified in or can be deducted from that disclosure,Other Crime
+95/42,,License holder failing to keep records or give notice or make a return or report as required by license - importation and storage of combustible gas,Other Crime
+95/43,,Making a statement which the person knows to be false or recklessly making statement which is false to obtain license or consent of S of S etc - importation and storage of combustible gas ,Other Crime
+95/44,,Failure to disclose information which is known or ought to be known to be relevant to an application for licence or consent of S of S etc - importation and storage of combustible gas,Other Crime
+95/45,,Failure to comply with direction under S.10 - importation and storage of combustible gas,Other Crime
+95/46,,License holder failing to keep records or give notice or make a return or report as required by license - importation and storage of carbon dioxide,Other Crime
+95/47,,Making a statement known to be false or recklessly making statement which is false to obtain license or consent or licensing authority - storage of carbon dioxide,Other Crime
+95/48,,Failure to disclose information which is known or ought to be known to be relevant to an application for license or consent of licensing authority - storage of carbon dioxide,Other Crime
+95/49,,Failure to comply with a direction under S.24 - storage of carbon dioxide,Other Crime
+95/50,,Offence of further disclosure of information - nuclear sites: decommissioning and clean-up,Other Crime
+95/51,,Without authority disclosing or using information,Other Crime
+95/52,,Failure to Comply with a requirement imposed under Sch.7,Other Crime
+95/52,,Knowingly or recklessly providing false information or a document to obtain grant of an exemption license,Other Crime
+95/52,,Offence of supplying false information - nuclear sites: decommissioning and clean-up,Other Crime
+95/53,,Disclosing protected information disclosed by public authority acting as an anti fraud organisation,Other Crime
+95/54,,Obstruction etc. under these Regulations,Other Crime
+95/54,,Triable-either-way offences,Other Crime
+95/55,,Member of the House of Commons providing false or misleading information for allowance claims,Other Crime
+95/56,,Intentionally obstructing an authorised person in the exercise of powers under Pt.3 of Sch.3 (seizure in cases of imminent danger of serious pollution),Other Crime
+95/57,,Triable-either-way offences [excluding R.6(7)],Other Crime
+95/58,,Failure to assist a railway Investigation Branch Inspector when required to do so,Other Crime
+95/59,,Triable-either-way offences,Other Crime
+95/60,,Fail to comply with a condition of a marine licence,Other Crime
+95/61,,Knowingly make false/misleading/ reckless statement or intentionally fail to disclose information.,Other Crime
+95/62,,Offences in relation to enforcement officers,Other Crime
+95/63,,Fail to comply with a notice to stop an activity causing / likely to cause environment / health / interference.,Other Crime
+95/64,,Fail to comply with an emergency safety notice.,Other Crime
+95/65,,With intend to deceive/forge or alter use/lend/allow another to make a document resembling a notice or exemption/accessibility/approval certificate,Other Crime
+95/66,,Triable-either-way offences,Other Crime
+95/67,,Owner / master contravene regulations under s 13 (1) (a) - (c),Other Crime
+95/68,,Fail to comply with a marine activity compliance notice,Other Crime
+95/69,,Fail to comply with a marine activity remediation notice,Other Crime
+95/70,,Disclose or use financial information in contravention of regulations,Other Crime
+95/71,,Wrongfully use of disclose restricted information concerning administration of justice ,Other Crime
+95/72,,Triable-either-way offences,Other Crime
+95/73,,Triable-either-way offences,Other Crime
+95/74,,Interfere with Security Measure Required by Port Security Plan,Other Crime
+95/75,,Disclose information obtained by virtue of section 260 or Schedule 22,Other Crime
+95/76,,Triable-either-way offences,Other Crime
+95/77,,Triable-either-way offences,Other Crime
+95/78,,Onwardly disclose personal information disclosed,Other Crime
+95/79,,Make a false or misleading statement in puported compliance with an Unexplained Wealth Order,Other Crime
+98/1,,Possession or under control of false documents etc. with intention of causing a third party to believe that the person in possession of the documentation or another person is a licensed gangmaster,Other Crime
+98/2,,Triable-either-way offences,Other Crime
+98/3,,Triable-either-way offences,Other Crime
+98/4,,Triable-either-way offences,Other Crime
+98/5,,Triable-either-way offences,Other Crime
+98/6,,Ill treatment or neglect of a person lacking capacity by anyone responsible for that persons care,Other Crime
+98/7,,Triable-either-way offences,Other Crime
+98/8,,Triable-either-way offences,Other Crime
+98/9,,Triable-either-way offences,Other Crime
+98/10,,Triable-either-way offences,Other Crime
+98/11,,Triable-either-way offences,Other Crime
+98/12,,Offences in relation to certain dangerous articles,Other Crime
+98/13,,Triable-either-way offences,Other Crime
+98/14,,Triable-either-way offences,Other Crime
+98/15,,Indictable offences relating to Civil Partnerships schedule & recordings of civil partnerships. ,Other Crime
+98/16,,Offences relating to Registrar Generals licence & recording of civil partnerships  ,Other Crime
+98/17,,Triable-either-way offences,Other Crime
+98/18,,Knowingly concerned in supply etc. of restricted goods with intent to evade Art.3(1) or 4 prohibition/restriction,Other Crime
+98/19,,Knowingly concerned in the supply etc. of restricted goods with intent to evade Article 3(2) or 4 prohibition/restriction,Other Crime
+98/20,,Fail to comply with condition of licence under Article 6 or 7,Other Crime
+98/21,,Accept/obtain for self/another gift/money as inducement/reward for procuring/assisting in the grant of a title/honour.,Other Crime
+98/22,,Triable-either-way offences,Other Crime
+98/23,,Fail to comply with section 18A enforcement notice,Other Crime
+98/24,,"Interfere with buildings constructed/ work executed/ anything installed on/ over land under S,18A notice",Other Crime
+98/25,,Triable-either-way offences,Other Crime
+98/26,,Person knowingly concerned in provision of technical assistance as defined in the 2005 regulations etc.  ,Other Crime
+98/27,,Triable-either-way offences,Other Crime
+98/28,,Triable-either-way offences,Other Crime
+98/29,,Triable-either-way offences,Other Crime
+98/30,,"Using data for unauthorised purpose; disclosing data to unauthorised person etc.
+",Other Crime
+98/31,,Prohibition of sale of medical practices.,Other Crime
+98/32,,Failure to comply with control of maximum prices for medical supplies other than health service medicines. ,Other Crime
+98/33,,Sought to engage/offered to engage/engaged in regulated activity from which barred.,Other Crime
+98/34,,"Knowing/having reason to believe an individual was barred from a regulated activity, and permitting them to engage in such activity.",Other Crime
+98/35,,Knowingly supply a barred individual to engage in regulated activity while acting/appearing to act for personnel supplier. ,Other Crime
+98/36,,Establish/install/use a wireless telegraphy station/apparatus without a S.8 licence.,Other Crime
+98/37,,Possess/control wireless telegraphy station/apparatus with intent for self/another to use it to contravene S.8 and S.35(2). ,Other Crime
+98/38,,Having charge of premises knowingly cause/permit/fail to prevent use of premises for unlawful broadcasting.,Other Crime
+98/39,,Facilitate unauthorised broadcasting.,Other Crime
+98/40,,Send/attempt to send false/misleading message by wireless telegraphy likely to endanger personal safety/ship/aircraft/vehicle.,Other Crime
+98/41,,Use apparatus for the purpose of interfering with wireless telegraphy.,Other Crime
+98/42,,"Broadcast, etc from a ship/aircraft while it is in /over the UK/external waters, or from a British registered ship/aircraft while it is not in/over the UK/external waters.",Other Crime
+98/43,,Broadcasting from structure/non-ship object affixed to/supported b y a bed of waters.,Other Crime
+98/44,,Ship owner/master make/procure broadcast capable of receipt in UK or cause wireless telegraphy interference in UK from non-British registered ship in prescribed area of high seas.,Other Crime
+98/45,,British person broadcast from non-British ship/aircraft/structure/object while on high seas.,Other Crime
+98/46,,"Manage/finance/operate/run a broadcasting station by which broadcasts are made contravening S.77,78,79 or 80.",Other Crime
+98/47,,Facilitating broadcasting from ships or aircraft.,Other Crime
+98/48,,Facilitating broadcasting from structures or objects.,Other Crime
+98/49,,"Repair/maintain wireless apparatus knowing that broadcasts are to be made contrary to S.77,78,79 or 80.",Other Crime
+98/50,,Offences relating to unlawful broadcasts.,Other Crime
+98/51,,Procure person in UK to commit a S.82-85 offence abroad.,Other Crime
+98/52,,Disclose information in contravention of S.111.,Other Crime
+98/53,,Bring or cause another to bring child into UK in non-compliance with condition specified in regulations made under S.12(1).,Other Crime
+98/56,,Disclose debtor information without authority. ,Other Crime
+98/63,,Fail to comply with articles listed in the Schedule relating to shark fins.,Other Crime
+98/64,,"Fail to comply with/prevent other person complying with a requirement imposed by a British sea-fishery officer, or assault/obstruct a British sea-fishery officer exercising powers under this order.",Other Crime
+98/65,,Triable-either-way offences,Other Crime
+98/66,,Organisation convicted of corporate manslaughter/homicide fail to comply with remedial order,Other Crime
+98/67,,Organisation convicted of corporate manslaughter/homicide fail to comply with order to publish particulars of offences ,Other Crime
+98/69,,Offence Committed by license holder - storage of carbon dioxide,Other Crime
+98/70,,Prohibition on use of site in absence of approved programme - nuclear sites: decommissioning and clean-up,Other Crime
+98/71,,Offence of failure to comply with approved programme - nuclear sites: decommissioning and clean - up,Other Crime
+98/72,,Triable-either-way offences,Other Crime
+98/73,,Intentionally encouraging or assisting commission of an either way offence,Other Crime
+98/74,,Intentionally encouraging or assisting commission of an indictable offence (NOT MURDER),Other Crime
+98/75,,Encouraging or assisting in the commission of an either way offence believing it will be committed,Other Crime
+98/76,,Encouraging or assisting in the commission of an indictable offence believing it will be committed [NOT MURDER] ,Other Crime
+98/77,,"Encouraging or assisting in the commission of one or more either way, or indictable offences (other than murder) believing it/they will be committed",Other Crime
+98/78,,Offences of Carrying on unlicensed activities - importation and storage of combustible gas,Other Crime
+98/79,,Offence committed by license holder - importation and storage of combustible gas,Other Crime
+98/80,,Offences of carrying on unlicensed activities - storage of carbon dioxide,Other Crime
+98/81,,Failure to comply with enforcement of Schedule 1 (ear tags),Other Crime
+98/82,,Failure to comply with enforcement of Schedule 2 (registration of cattle),Other Crime
+98/83,,Failure to comply with enforcement of Sch.3 Pt.1 (passports),Other Crime
+98/84,,Failure to comply with enforcement of Sch.3 Pt.2 (movement using passports),Other Crime
+98/85,,Failure to comply with enforcement of Sch.4 (notification of movement of death),Other Crime
+98/86,,failure to comply with enforcement of Sch.5 (records),Other Crime
+98/87,,Triable-either-way offences,Other Crime
+98/88,,Triable-either-way offences,Other Crime
+98/89,,Offences of damaging etc protected features of MCZs ,Other Crime
+98/90,,Conservation of Whales- various offences,Other Crime
+98/91,,"Contravening the law relating to the regulation and control of fishing for salmon, trout, freshwater fish and eels, the protection and conservation of fisheries for such fish, the times of fishing for the selling such fish b.  Sec 27 (instrument other than rod and line) Secs 4, 5",Other Crime
+98/92,,"Fishing with, or possessing for  fishing prohibited instruments",Other Crime
+98/93,,Breach EU regulation 1007/2009 in relation to seal meat/oil/blubber/organ/skins,Other Crime
+98/94,,Triable-either-way offences,Other Crime
+98/95,,"Fish / take fish by other than licensable means in circumstances where fish / taking may or may not be authorised, or possess unlicensed instrument with intent to fish / take fish or without a S27A authority",Other Crime
+98/96,,Triable-either-way offences,Other Crime
+98/97,,Triable-either-way offences,Other Crime
+99/1,,Incitement to sedition etc.,Other Crime
+99/2,,"Intentionally/recklessly remove, cause or permit the removal of a hedgerow in contravention of Regulation 5 (1) or (9)",Other Crime
+99/3,,Triable-either-way offences,Other Crime
+99/5,,"Bribery, Treating and undue influence",Other Crime
+99/6,,Impersonation.,Other Crime
+99/7,,"Offences relating to offering, promising or giving bribes",Other Crime
+99/8,,"Offences relating to requesting, agreeing to receive and accepting bribes",Other Crime
+99/9,,Bribery of foreign public officials,Other Crime
+99/10,,Commercial organisation - fail to prevent associate bribing another with intent to obtain / retain business / advantage,Other Crime
+99/12,,Misconduct in a public offence by act or commission,Other Crime
+99/13,,Triable-either-way offences,Other Crime
+99/14,,Triable-either-way offences,Other Crime
+99/15,,Triable-either-way offences,Other Crime
+99/16,,Unlawful disclosure of information; providing false information,Other Crime
+99/19,,Triable-either-way offences,Other Crime
+99/20,,Offences relating to the introduction of new species,Other Crime
+99/21,,Remove/disturb limestone on designated land,Other Crime
+99/22,,Triable-either-way offences,Other Crime
+99/23,,Fraudulent evasion of duty etc,Other Crime
+99/24,,Prohibitions  for the protection of revenue,Other Crime
+99/28,,"Offences under Parts I, II & III",Other Crime
+99/29,,Assist offender (Offences triable on indictment only),Other Crime
+99/30,,Assisting offender (offence triable either-way),Other Crime
+99/32,,Unauthorised disclosure of information about a prisoner,Other Crime
+99/34,,Failure to possess a licence or to obey conditions of licence,Other Crime
+99/35,,Make a statement to the licensing authority (or someone acting on their behalf) which is false in a material particular,Other Crime
+99/36,,Offences relating to chemical weapons,Other Crime
+99/37,,Offences relating to the Disability Discrimination Act 1995 and Regulations made under it (TEW and indictable offences),Other Crime
+99/38,,Conspiring in the UK to commit offences overseas,Other Crime
+99/39,,Disqualified person knowingly applies etc. for work in a regulated position,Other Crime
+99/40,,Person knowingly offers a disqualified person work in a regulated position.,Other Crime
+99/41,,Giving false or misleading information,Other Crime
+99/42,,"Offences under Secs 3, 4, 5, 8 & 9.",Other Crime
+99/45,,Regulations made under these sections Health and Safety,Other Crime
+99/46,,Disclosure of information for enforcing warrants,Other Crime
+99/47,,Restriction on disclosure,Other Crime
+99/48,,"Carrying out or causing to permit to be carried out, any operation likely to damage part of an area of special scientific interest subject to notification by Nature Conservancy Council",Other Crime
+99/49,,"Falsely pretending , with intent to deceive, to be a wildlife inspector.",Other Crime
+99/50,,"Contravenes or fails to comply with Direction, or makes a disclosure in contravention of a  Direction, made in the interests of national security etc.",Other Crime
+99/51,,"Provides particulars, or recklessly provides particulars, which he knows are false in a material particular.",Other Crime
+99/52,,"Contravenes or fails to comply with a Direction, given in times of severe international tension, great national emergency or actual or imminent hostilities.",Other Crime
+99/53,,"Knowingly gives false information or false statement, in connection with this part of the Act.",Other Crime
+99/54,,Prohibition on disclosure of information gained under this Part of the Act..,Other Crime
+99/55,,Triable-either-way offences - Regulations made under S.247,Other Crime
+99/56,,Unlawful interception of a postal public or private telecommunication scheme,Other Crime
+99/57,,Fail to give effect to an interception warrant,Other Crime
+99/58,,Unlawful disclosure of details of interception warrant,Other Crime
+99/59,,Fail to disclose key to protected information,Other Crime
+99/60,,Disclose details of Sec. 49 notice,Other Crime
+99/61,,Triable-either-way offences,Other Crime
+99/62,,Triable-either-way offences,Other Crime
+99/63,,Using unlicensed security operative,Other Crime
+99/64,,Using unlicensed wheel clampers operative,Other Crime
+99/65,,Right to use approved status,Other Crime
+99/66,,Imposition of requirements for approval,Other Crime
+99/67,,Triable-either-way offences,Other Crime
+99/68,,Leaves UK when prohibited to do so by Travel Restriction Order,Other Crime
+99/69,,Failure to return after a suspension – Travel Restriction Order,Other Crime
+99/70,,Triable-either-way – except article 65,Other Crime
+99/72,,Triable-either-way offences - Regulations made under Part 8,Other Crime
+99/73,,Regulations may create a criminal offence,Other Crime
+99/74,,Fails to comply with requirement of a detention direction etc,Other Crime
+99/75,,Placing in a women a human embryo which has been created otherwise than by fertilisation,Other Crime
+99/76,,All other TEW offences except those under classification 95/08,Other Crime
+99/77,,Re-programming mobile telephones etc.,Other Crime
+99/78,,Possession or supply anything for re-programming purposes,Other Crime
+99/81,,Interfering with the mail - postal operators,Other Crime
+99/82,,Triable-either-way offences,Other Crime
+99/83,,Prohibition on sending certain articles by post,Other Crime
+99/84,,Triable-either-way offences,Other Crime
+99/85,,Engaging in activities requiring a licence,Other Crime
+99/86,,Ill treatment of patients,Other Crime
+99/87,,Assisting patients to absent themselves,Other Crime
+99/88,,"All TEW offences except Sec 10,78-82,92-95",Other Crime
+99/89,,Triable-either-way offences,Other Crime
+99/90,,Dishonestly obtaining electronic communication services,Other Crime
+99/91,,Possession or supply of apparatus etc for contravening Sec 125,Other Crime
+99/92,,Triable-either-way offences,Other Crime
+99/93,,Prohibition on unauthorised introduction of water or unauthorised use of supply system,Other Crime
+99/94,,"Dishonestly deals in cultural object that is tainted, knowing or believing that the object is tainted",Other Crime
+99/95,,Triable-either-way offences,Other Crime
+99/96,,Triable-either-way offences,Other Crime
+99/96,,Triable-either-way offences,Other Crime
+99/97,,Triable-either-way offences,Other Crime
+99/98,,Acting as a gangmaster in contravention of Section 6 (prohibition of unlicensed activities),Other Crime
+99/99,,Misrepresentation of systems of classification of carcasses,Other Crime
+99/99,,Falsification of registration returns and records of a levy scheme,Other Crime
+99/99,,Disclosure of information under a levy scheme,Other Crime
+99/99,,Means of obtaining information relating to land,Other Crime
+99/99,,"Concerning - Eggs; capital and other grants; smallholdings, flood warning systems, animal diseases",Other Crime
+99/99,,Contravening sales of regulated products or disclosing information.,Other Crime
+99/99,,Provisions concerning air force procedure and policy b) triable either way,Other Crime
+99/99,,Triable-either-way offences,Other Crime
+99/99,,Triable-either-way offences,Other Crime
+99/99,,Offences against importation of animals carcasses etc. - Except RABIES ,Other Crime
+99/99,,Regs to prevent the spreading of rabies disease among animals,Other Crime
+99/99,,Provision for the protection of animals used for experimental or other scientific purpose,Other Crime
+99/99,,Aiding or Abetting etc desertion or absence without leave ,Other Crime
+99/99,,Aiding or Abetting etc Malingering ,Other Crime
+99/99,,Provisions concerning army procedure and policy b) triable either way,Other Crime
+99/99,,Relating to the exercise of powers.,Other Crime
+99/99,,Showing an indecent exhibition,Other Crime
+99/99,,"Restrictions on fishing, etc. by British fishing boats",Other Crime
+99/99,,Failing to comply with requirements; assaulting any officer exercising powers under Sec 2 or 3,Other Crime
+99/99,,Prohibition on providing radio service without a licence,Other Crime
+99/99,,False/misleading statement,Other Crime
+99/99,,Engaging in advertising which is misleading under R.3,Other Crime
+99/99,,Knowingly make false statement giving information under R.25(1)(c ),Other Crime
+99/99,,All other offences except under Sec 13 (1) (a) & (b),Other Crime
+99/99,,Census official contravening provisions,Other Crime
+99/99,,Triable-either-way offences,Other Crime
+99/99,,Procuring on false pretence/ representation a person under 18 to go abroad to perform for profit,Other Crime
+99/99,,"Charges at airports for air navigation services, aircraft accidents, control of aircraft noise and supersonic flight, offences committed on board aircraft, piracy of the convention on the high seas, etc. b) triable either way only",Other Crime
+99/99,,Disclosure of information,Other Crime
+99/99,,Power to restrict use of land,Other Crime
+99/99,,Restriction of unlicensed carriage by air for reward,Other Crime
+99/99,,Air transport licensing,Other Crime
+99/99,,Regulation of provision of accommodation in aircraft,Other Crime
+99/99,,Refusing to furnish information or furnishing false information for the CAA and Secretary of State,Other Crime
+99/99,,Wilfully certifies any document or article to be a true copy,Other Crime
+99/99,,Triable-either-way offences,Other Crime
+99/99,,Disclose information concerning an individual or business or intentionally alter/suppress destroy information required for a licence condition appeal.,Other Crime
+99/99,,Blasphemous libel,Other Crime
+99/99,,Conspiracy to corrupt public morals,Other Crime
+99/99,,Obstructing coroner in the execution of his duty ,Other Crime
+99/99,,Duty to aid constables,Other Crime
+99/99,,Rescuing a prisoner in custody,Other Crime
+99/99,,Showing an indecent exhibition,Other Crime
+99/99,,Removing corpse from grave,Other Crime
+99/99,,Common Law offences not listed separately,Other Crime
+99/99,,Triable-either-way offences,Other Crime
+99/99,,Accounting records to be kept,Other Crime
+99/99,,Offences b) Triable-either-way,Other Crime
+99/99,,Triable-either-way offences,Other Crime
+99/99,,Triable-either-way offences,Other Crime
+99/99,,Exploration and exploitation of minerals under the sea,Other Crime
+99/99,,Pollution Offences,Other Crime
+99/99,,Triable-either-way offences,Other Crime
+99/99,,False returns,Other Crime
+99/99,,Triable either way offences ,Other Crime
+99/99,,"Intentionally alter, suppress or destroy a document required to produce by S46(1)",Other Crime
+99/99,,Do any in purported exercise of right of audience / conduct litigation re: any proceedings when not entitled,Other Crime
+99/99,,Acting in the purported exercise of any right granted to authorised practitioners when not authorised to do so,Other Crime
+99/99,,"TEW offences (excluding S.46B, 70(1) and 70(2)",Other Crime
+99/99,,Breach of regulations by false representation and certificate,Other Crime
+99/99,,Harbouring escaped prisoner,Other Crime
+99/99,,Triable-either-way offences,Other Crime
+99/99,,Concealment of offences,Other Crime
+99/99,,Fraudulently obtaining credit,Other Crime
+99/99,,Triable-either-way offences,Other Crime
+99/99,,False documents and false statements,Other Crime
+99/99,,Provide/make false information or statement,Other Crime
+99/99,,Triable-either-way offences,Other Crime
+99/99,,Manufacture and keeping of gunpowder and other explosives (under sec 91 Explosives Act 1875 or under Sec 33 Health and Safety at Work etc. Act 1974),Other Crime
+99/99,,Triable-either-way offences,Other Crime
+99/99,,Knowingly makes false statements,Other Crime
+99/99,,Disclosing information regarding any manufacturing process or trade secret,Other Crime
+99/99,,Unauthorised person acting as weights and measures officer,Other Crime
+99/99,,Furnishing false information,Other Crime
+99/99,,"Wilfully alters, suppresses or destroys any document",Other Crime
+99/99,,"Issues circulates or distributes an advertisement, prospectus, circular or notice",Other Crime
+99/99,,Contravenes any regulations under sub-section (2) of that section,Other Crime
+99/99,,Makes payment for the benefit of the promoter(s) or a participant in the trading scheme,Other Crime
+99/99,,Participant of trading scheme make any payment to or for benefit of the promoter(s),Other Crime
+99/99,,General restrictions on disclosure of information,Other Crime
+99/99,,Failure to have a fire certificate,Other Crime
+99/99,,Contravention of any requirement of fire certificate,Other Crime
+99/99,,Failure to notify fire authority of any structural alterations of premises or storage of flammable material or explosives,Other Crime
+99/99,,Storing explosives or highly flammable materials without a fire certificate to cover this,Other Crime
+99/99,,Power of fire authority to cancel a fire certificate,Other Crime
+99/99 ,,Contravening requirements imposed by improvement notice,Other Crime
+99/99,,Contravention of prohibition notice,Other Crime
+99/99,,Contravening fire precaution regulations,Other Crime
+99/99,,Contravening terms or conditions of a safety certificate for a required stand at sports ground.,Other Crime
+99/99,,Restriction on disclosure of information,Other Crime
+99/99,,Contravention or order regulating access to British fisheries,Other Crime
+99/99,,"Destroying, forging or falsifying registers of births, marriages, deaths, burials etc",Other Crime
+99/99,,Forgery of copy of Registrars record,Other Crime
+99/99,,Control of mining and other operations in storage area and protective area; general provisions as to offences under part II,Other Crime
+99/99,,Triable-either-way offences,Other Crime
+99/99,,Fraud etc,Other Crime
+99/99,,"The control of harbour development, financial assistance for the improvement of harbours/maintenance, management",Other Crime
+99/99,,Making a false or misleading statement in purported compliance with requirement under the regulations,Other Crime
+99/99,,Making a false entry on a record or register required to be kept by the regulations,Other Crime
+99/99,,Disclosing manufacturing process or trade secrets,Other Crime
+99/99,,Building society advancing more than 15% of total advances made in previous year or not notifying change of building society rules to Chief Registrar,Other Crime
+99/99,,Triable either way offences,Other Crime
+99/99,,Seduction of members of HM Forces from their duty or allegiance,Other Crime
+99/99,,Knowingly or recklessly furnishes return etc. which is false,Other Crime
+99/99,,Wilfully makes false entry in any record,Other Crime
+99/99,,Discloses any information in contravention of subsection (2),Other Crime
+99/99,,Triable-either-way offences,Other Crime
+99/99,,Disclosure of information obtained under Iron and Steel Act,Other Crime
+99/99,,Triable-either-way offences,Other Crime
+99/99,,Contravene regulations made under sec 19 and 25.,Other Crime
+99/99,,Prohibition of Broadcasting from ships or aircraft,Other Crime
+99/99,,Triable-either-way offences,Other Crime
+99/99,,Triable-either-way offences,Other Crime
+99/99,,Failure of owner of ship to take all reasonable steps to secure that the ship is operated in a safe manner,Other Crime
+99/99,,Failing to comply with any requirements of the direction given by the person to whom the direction is duly given under Sec 137 (shipping casualties),Other Crime
+99/99,,Owner or Master of ship makes an entry in oil record book knowing it to be false or misleading,Other Crime
+99/99,,Selling abroad wreck found in British waters,Other Crime
+99/99,,Regulations relating to submersible and supporting apparatus - offences created by Sec 88,Other Crime
+99/99,,Triable-either-way offences,Other Crime
+99/99,,Ship entering or remaining in a temporary exclusion zone,Other Crime
+99/99,,Contravention of Regulations made with regard to waste reception facilities at harbours,Other Crime
+99/99,,Discharge of oil into United Kingdom waters,Other Crime
+99/99,,Contravention or failure to comply with a direction to move or remove a ship made under Sec 100C,Other Crime
+99/99,,Failure to comply with prescribed standards in respect of ship in respect of which trans-shipment licence is in force,Other Crime
+99/99,,Contravention of Regulations requiring insurance or security (TEW),Other Crime
+99/99,,Contravention of an Order relating to protection of wrecks- implementation of international agreements,Other Crime
+99/99,,Owner contravening pilot transfer arrangements.,Other Crime
+99/99,,Master contravening pilot transfer arrangements.,Other Crime
+99/99,,Responsible Officer failing to supervise as instructed by the master and required by Reg 6(2),Other Crime
+99/99,,Contravention of Reg 5 - Small vessels complying with Code of Practice,Other Crime
+99/99,,Contravening the construction and survey regulations for offshore installations,Other Crime
+99/99,,Relating to managers of offshore installations,Other Crime
+99/99,,Relating to labour laws,Other Crime
+99/99,,Triable-either-way offences,Other Crime
+99/99,,Offences under Regulation 17 (a),Other Crime
+99/99,,Triable-either-way offences,Other Crime
+99/99,,"Obstructing, assaulting or arresting upon civil process, clergyman performing services",Other Crime
+99/99,,"Spying, wrongful communication etc.",Other Crime
+99/99,,Infringement of the Olympic Association right,Other Crime
+99/99,,Triable-either-way offences,Other Crime
+99/99,,Triable-either-way offences,Other Crime
+99/99,,Falsification by the registrar,Other Crime
+99/99,,Piracy,Other Crime
+99/99,,Piracy with violence,Other Crime
+99/99,,Triable-either-way offences,Other Crime
+99/99,,Contravening or causing or permitting the contravention of a stop notice,Other Crime
+99/99,,"Refuses or neglects to furnish information giving false statement, information obtained for the Act should not be disclosed",Other Crime
+99/99,,Disclosure of telegrams,Other Crime
+99/99,,Discharge of certain oils into sea outside territorial waters,Other Crime
+99/99,,Discharge of certain oils from pipe-lines or as the result of exploration etc. in designated areas,Other Crime
+99/99,,Triable-either-way offences,Other Crime
+99/99,,Making or misleading statement about prescribed matter in the course of an Estate Agency business,Other Crime
+99/99,,Triable-either-way offences,Other Crime
+99/99,,"Contamination of or interference with goods with intention of causing public alarm, anxiety, economic loss, etc.",Other Crime
+99/99,,"Threaten or claim to contaminate or interfere with goods with intention of causing public alarm, anxiety, economic loss, etc.",Other Crime
+99/99,,"Possess certain articles with a view to contamination of or interference with goods with intention of causing public alarm, anxiety, economic loss, etc.",Other Crime
+99/99,,Certificate of qualification (forgery and misuse),Other Crime
+99/99,,Document evidencing the appointment of a person as a certifying officer or public service vehicle examiner,Other Crime
+99/99,,Offences as to securing possession of property,Other Crime
+99/99,,Triable-either-way offences,Other Crime
+99/99,,Rabies control order 1974,Other Crime
+99/99,,Disclosing  information ,Other Crime
+99/99,,Triable-either-way offences,Other Crime
+99/99,,Failure to register nursing home or mental nursing home,Other Crime
+99/99,,Triable either way offences not in 99/5 or 99/6,Other Crime
+99/99,,"Tampering with nomination papers, ballot papers etc",Other Crime
+99/99,,Offences in connection with registration,Other Crime
+99/99,,Triable-either-way offences,Other Crime
+99/99,,Relating to commercial use of fishing for and landing of sea fish,Other Crime
+99/99,,Publication or disclosure of information,Other Crime
+99/99,,Conspiracy to commit a listed Sexual offence,Other Crime
+99/99,,Resisting a Sheriff in the execution of a writ,Other Crime
+99/99,,Unqualified person acting as a solicitor,Other Crime
+99/99,,Recklessly make false statement,Other Crime
+99/99,,Administration of oath by person without jurisdiction,Other Crime
+99/99,,Falsify/conceal/destroy otherwise dispose of a required document or cause or permit the action.,Other Crime
+99/99,,Knowingly concerned in the fraudulent evasion of income tax by self / another ,Other Crime
+99/99,,Prohibition of presentation of obscene performances of plays,Other Crime
+99/99,,Obligation to give notice of right to cancel timeshare agreement,Other Crime
+99/99,,Triable-either-way offences,Other Crime
+99/99,,Triable-either-way offences,Other Crime
+99/99,,sale of advertised goods as made by blind or disabled persons,Other Crime
+99/99,,Restrictions on persons who may carry on business as promoters of trading stamp schemes,Other Crime
+99/99,,sale of advertised goods as made by blind or disabled persons,Other Crime
+99/99,,Ship radioactive waste/spent fuel in or out of the UK without authorisation or failure to comply with regulations,Other Crime
+99/99,,Directory entries,Other Crime
+99/99,,Triable-either-way offences,Other Crime
+99/99,,Restriction of practice of veterinary surgery by unqualified persons,Other Crime
+99/99,,Prohibition of use of practitioners’ titles by unqualified persons,Other Crime
+99/99,,Triable-either-way offences,Other Crime
+99/99,,Disclose information relating to a trade or manufacturer's secret,Other Crime
+104/23,violence without injury,Assault on a constable,Violence and Sexual Offences
+104/25,violence without injury,Assault a designated person or his assistant in the exercise of a relevant power,Violence and Sexual Offences
+104/31,violence without injury,Vagrant violently resisting a constable,Violence and Sexual Offences
+104/36,violence without injury,Assault a member of a joint investigation team carrying out his function as a member of that team,Violence and Sexual Offences
+104/39,violence without injury,Assaults an officer of revenue or customs,Violence and Sexual Offences
+105/1,violence without injury,Common assault and battery,Violence and Sexual Offences
+105/2,violence without injury,Assault on County Court officer,Violence and Sexual Offences
+105/3,violence without injury,Assault on person assisting a constable,Violence and Sexual Offences
+105/4,violence without injury,Assault on prison custody officer,Violence and Sexual Offences
+105/4,violence without injury,Assault on officer in secure training centre,Violence and Sexual Offences
+105/5,violence without injury,Resisting or wilfully obstructing a prison custody officer ,Violence and Sexual Offences
+105/5,violence without injury,Resisting or wilfully obstructing a custody officer,Violence and Sexual Offences
+105/6,violence without injury,Assault on court security officer,Violence and Sexual Offences
+105/7,violence without injury,Resisting or wilfully obstructing court security officer,Violence and Sexual Offences
+105/8,violence without injury,Assaulting a designated or accredited person in the execution of their duty,Violence and Sexual Offences
+105/9,violence without injury,Resisting or wilfully obstructing a designated or accredited person in the execution of their duty,Violence and Sexual Offences
+105/10,violence without injury,Assault on a traffic officer,Violence and Sexual Offences
+105/11,violence without injury,Resisting or wilfully obstructing a traffic officer in the execution of their duties,Violence and Sexual Offences
+105/12,violence without injury,Assaulting an immigration officer exercising S2 detention powers,Violence and Sexual Offences
+105/13,violence without injury,Assaulting an immigration officer ,Violence and Sexual Offences
+109/1,violence without injury,Allowing persons under 16 to take part in performances endangering life or limb,Violence and Sexual Offences
+109/1,violence without injury,Training of persons under 12 for dangerous performances,Violence and Sexual Offences
+109/5,violence without injury,Exposing child to risk of burning,Violence and Sexual Offences
+109/6,violence without injury,Allowing child or young person to be in brothel,Violence and Sexual Offences
+109/7,violence without injury,Neglecting to provide for safety at children’s entertainment,Violence and Sexual Offences
+109/8,violence without injury,Permitting child to be in verminous condition,Violence and Sexual Offences
+125/9,,"Causing intentional harassment, alarm or distress",Public Order
+125/11,,Fear or provocation of violence,Public Order
+125/12,,"Harassment, alarm or distress",Public Order
+125/62,Public order,Summary Regulations made under Part 8,Other Crime
+125/68,Stalking and Harassment ,Harassment etc. of a person in his home,Violence and Sexual Offences
+125/82,,Racially or religiously aggravated harassment or alarm or distress - words or writing,Public Order
+126,,Interference with a motor vehicle,Vehicle Crime
+130/1,,Unauthorised taking of a motor vehicle (does not include ‘being carried knowing motor vehicle has been taken),Vehicle Crime
+130/2,Other theft,Unauthorised taking of conveyance other than a motor vehicle or pedal cycle,Other Theft
+131/1,,Aggravated vehicle taking where the only aggravating factor is criminal damage of £5000 or under,Vehicle Crime
+137/18,bicycle theft,Take or ride a pedal cycle without consent etc.,Bicycle Theft
+149,Criminal Damage,Other criminal damage to a dwelling ,Criminal Damage and Arson
+149,Criminal Damage,Other criminal damage to a dwelling  £500 - £5000,Criminal Damage and Arson
+149,Criminal Damage,Other criminal damage to a building other than a dwelling ,Criminal Damage and Arson
+149,Criminal Damage,Other criminal damage to a building other than a dwelling  £500 -£5000,Criminal Damage and Arson
+149,Criminal Damage,Other criminal damage to a vehicle £500 - £5000,Criminal Damage and Arson
+149,Criminal Damage,"Other criminal damage, other ",Criminal Damage and Arson
+149,Criminal Damage,"Other criminal damage, other £500 - £5000",Criminal Damage and Arson
+167/01,,Soliciting another for the purpose of obtaining their sexual services as a prostitute in a street or public place,Other Crime
+167/02,,"Paying or promising to pay a person to pay a person to provide sexual services, where that person is subject to exploitative conduct to induce or encourage them to provide those services.",Other Crime
+193/11,Possession of drugs,"Failure to comply with notice requiring information relating to  prescribing, supply etc. of drugs  ",Drugs
+193/44,Possession of drugs,Supply of intoxicating substance,Drugs
+193/46,Possession of drugs,Supply etc. of articles for administering or preparing controlled drugs ,Drugs
+195/12,Stalking and Harassment ,Pursue a course of conduct in breach of S1 (1) which amounts to stalking ,Violence and Sexual Offences
+195/94,Stalking and Harassment ,Harassment,Violence and Sexual Offences
+802,,"Aiding, abetting, causing or permitting dangerous driving",Other Crime
+807/5,,Making false statement to obtain or failure to produce revoked licence,Other Crime
+807/10,,Knowingly make a false statement to obtain issue of a driver qualification card.,Other Crime
+809/2,,Making false statement or withholding material information in order to obtain the issue of a certificate of insurance,Other Crime
+810/2,,Making false statement or produces false evidence for the purposes of Regs under 66(1),Other Crime
+810/03,,Disclose any information obtained from register of vehicles held under S21 of Vehicle Excise Act,Other Crime
+811/03,,Triable-either-way offences,Other Crime
+814/1,,"Fraud, forgery etc. associated with driving licence",Other Crime
+814/2,,"Fraud, forgery etc. associated with insurance certificate",Other Crime
+814/3,,"Fraud, forgery etc. associated with registration and licensing documents",Other Crime
+814/4,,"Fraud, forgery etc. associated with work records",Other Crime
+814/5,,"Fraud, forgery etc. associated with operator’s licence",Other Crime
+814/6,,"Fraud, forgery etc. associated with test certificate",Other Crime
+814/7,,Mishandling or faking parking documents ,Other Crime
+814/8,,"Making false statement or produces, provides, sends or otherwise makes use of a document which he knows to be false etc",Other Crime
+814/9,,"Wilfully, or with intent to deceive, makes a false entry in any record required to be made or kept by regulations under S 74 etc",Other Crime
+814/10,,"Forge/alter/use/lend/make document/authority to drive/card/licence/certificate with intent to
+deceive.",Other Crime
+820/09,,Obstructing a person exercising any power conferred on him (enforcement of licensing scheme),Other Crime
+820/11,,Contravention of regulations in connection with immobilisation device,Other Crime
+820/12,,Contravention of regulations in connection with securing possession of vehicles,Other Crime
+825/06,,Tampering with motor vehicles,Vehicle Crime
+825/18,,Make false declaration with a view to securing release of a vehicle from an immobilization device,Other Crime
+825/20,,Make false declaration with a view to securing possession of a vehicle delivered into custody of a person,Other Crime
+825/24,,Without lawful authority immobilise a motor vehicle by the attachment to it or part of it an immobilising device,Other Crime
+825/24,,Without lawful authority move / restrict the movement of a motor vehicle,Other Crime

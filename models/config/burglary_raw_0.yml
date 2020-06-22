@@ -1,0 +1,5 @@
+covariates:
+ - "intercept"
+ - "log.poi.all"
+ - "log.household.count"
+covariates_to_log:

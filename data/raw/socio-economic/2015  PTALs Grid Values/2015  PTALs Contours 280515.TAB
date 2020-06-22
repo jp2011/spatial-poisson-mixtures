@@ -1,0 +1,25 @@
+!table
+!version 450
+!charset WindowsLatin1
+
+Definition Table
+  Type NATIVE Charset "WindowsLatin1"
+  Fields 3
+    Lower Float ;
+    Upper Float ;
+    PTAL Char (2) Index 1 ;
+begin_metadata
+"\SNAPTHIN" = ""
+"\SNAPTHIN\EnableSnap" = "FALSE"
+"\SNAPTHIN\Node" = "0"
+"\SNAPTHIN\Vec" = "0"
+"\SNAPTHIN\TolUnit" = "1"
+"\SNAPTHIN\EnableThin" = "FALSE"
+"\SNAPTHIN\Bend" = "0"
+"\SNAPTHIN\Dist" = "0"
+"\SNAPTHIN\ThinUnit" = "1"
+"\SNAPTHIN\EnableArea" = "FALSE"
+"\SNAPTHIN\Area" = "0"
+"\SNAPTHIN\AreaUnit" = "15"
+"\IsReadOnly" = "FALSE"
+end_metadata
