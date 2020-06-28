@@ -9,7 +9,7 @@ Spatial Point Processes’. Journal of the Royal Statistical Society. Series C (
 https://arxiv.org/abs/1910.05212v1.
 
 
-These codes have been tested to work on a Ubuntu and OSX. It works on Python 3.
+These codes have been tested to work on Ubuntu and OSX. It requires Python 3.
 
 ## Steps to execute the program
 
