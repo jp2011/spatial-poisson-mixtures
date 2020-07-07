@@ -6,7 +6,7 @@ This repository accompanies the following paper:
 
 Povala, Jan, Seppo Virtanen, and Mark Girolami. 2020. ‘Burglary in London: Insights from Statistical Heterogeneous 
 Spatial Point Processes’. Journal of the Royal Statistical Society. Series C (Applied Statistics) forthcoming. 
-https://arxiv.org/abs/1910.05212v1.
+https://arxiv.org/abs/1910.05212.
 
 
 These codes have been tested to work on Ubuntu and OSX. It requires Python 3.
