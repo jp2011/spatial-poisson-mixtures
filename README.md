@@ -1,12 +1,12 @@
 spatial-poisson-mixtures
 ==============================
 
-This repository accompanies the following paper:
+This repository accompanies the following paper: [https://doi.org/10.1111/rssc.12431](https://doi.org/10.1111/rssc.12431)
 
 
 Povala, Jan, Seppo Virtanen, and Mark Girolami. 2020. ‘Burglary in London: Insights from Statistical Heterogeneous 
 Spatial Point Processes’. Journal of the Royal Statistical Society. Series C (Applied Statistics) forthcoming. 
-https://arxiv.org/abs/1910.05212.
+[DOI: 10.1111/rssc.12431](https://doi.org/10.1111/rssc.12431).
 
 
 These codes have been tested to work on Ubuntu and OSX. It requires Python 3.
